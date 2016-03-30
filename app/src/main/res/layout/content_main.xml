@@ -12,8 +12,15 @@
     tools:context="com.engo551.plars.app.MainActivity"
     tools:showIn="@layout/activity_main">
 
-    <TextView
+    <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!" />
+        android:text="View Map"
+        android:id="@+id/buttonMap"
+        android:layout_marginTop="49dp"
+        android:layout_marginRight="42dp"
+        android:layout_marginEnd="42dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
 </RelativeLayout>
