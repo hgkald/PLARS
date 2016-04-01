@@ -1,5 +1,7 @@
 package com.engo551.plars.app;
 
+import android.database.Cursor;
+import android.database.sqlite.SQLiteDatabase;
 import android.support.v4.app.FragmentActivity;
 import android.os.Bundle;
 
@@ -12,7 +14,8 @@ import com.google.android.gms.maps.model.MarkerOptions;
 
 public class MapsActivity extends FragmentActivity implements OnMapReadyCallback {
 
-    private GoogleMap mMap;
+    private GoogleMap map;
+    private RestaurantDatabaseHelper rDb;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -36,11 +39,29 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
      */
     @Override
     public void onMapReady(GoogleMap googleMap) {
-        mMap = googleMap;
+        map = googleMap;
 
-        // Add a marker in Sydney and move the camera
-        LatLng sydney = new LatLng(-34, 151);
-        mMap.addMarker(new MarkerOptions().position(sydney).title("Marker in Sydney"));
-        mMap.moveCamera(CameraUpdateFactory.newLatLng(sydney));
+        final LatLng CALGARY = new LatLng(51.0486, -114.0708);
+        map.moveCamera(CameraUpdateFactory.newLatLngZoom(CALGARY, 10));
+
+        rDb = new RestaurantDatabaseHelper(this);
+        SQLiteDatabase db = rDb.getReadableDatabase();
+
+        String[] columns = {"ID", "NAME", "Latitude", "Longitude"};
+        Cursor cursor = db.query("restaurants", columns, null, null, null, null, null);
+
+        try {
+            while (cursor.moveToNext()) {
+                LatLng latLng = new LatLng(cursor.getDouble(2), cursor.getDouble(3));
+                map.addMarker(new MarkerOptions().position(latLng).title(cursor.getString(1)));
+
+                //TODO: Center on current user location
+                //TODO: Draw marker according to type
+                //TODO: Add info window click event
+            }
+        }
+        finally {
+            cursor.close();
+        }
     }
 }
