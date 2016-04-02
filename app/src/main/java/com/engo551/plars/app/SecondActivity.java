@@ -76,7 +76,7 @@ public class SecondActivity extends AppCompatActivity {
                     @Override
                     public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
                         String type;
-                        type = ResList.get(sort[position+1].sort)[8];
+                        type = ResList.get(sort[position].sort)[8];
                         boolean isinserted = ResListDb.insertRecord(type);
                         if (isinserted == true)
                             Toast.makeText(SecondActivity.this, "data inserted", Toast.LENGTH_LONG).show();
@@ -160,7 +160,7 @@ public class SecondActivity extends AppCompatActivity {
 
         for (int j=0; j<index.size();j++){
 
-
+            sort[j].sort = sort[j].sort+1;
             Log.d("pair", String.valueOf(sort[j].sort));
         }
         return sort;
