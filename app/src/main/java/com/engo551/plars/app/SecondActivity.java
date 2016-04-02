@@ -57,31 +57,26 @@ public class SecondActivity extends AppCompatActivity {
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
         ResListDb = new LocalDbHelper(this);
-        ResDb= new RestaurantDatabaseHelper(this);
-        SQLiteDatabase db = ResDb.getReadableDatabase();
-        String[] columns = {"ID", "NAME", "Latitude", "Longitude"};
-        Cursor cursor = db.query("restaurants", columns, null, null, null, null, null);
-        List<String[]> ResList = read("reslist.csv");
-        Pair[] sort = SortIndex(CalculateIndex());
+        SQLiteDatabase db = ResListDb.getWritableDatabase();
+        final List<String[]> ResList = read("reslist.csv");
+        final Pair[] sort = SortIndex(CalculateIndex(db));
+        prefIndex(db);
 
-
-        String[] resNames = {ResList.get(sort[1].sort)[0],ResList.get(sort[2].sort)[0],ResList.get(sort[3].sort)[0],ResList.get(sort[4].sort)[0],
-                ResList.get(sort[5].sort)[0],ResList.get(sort[6].sort)[0],ResList.get(sort[7].sort)[0],ResList.get(sort[8].sort)[0],
-                ResList.get(sort[9].sort)[0],ResList.get(sort[10].sort)[0],ResList.get(sort[11].sort)[0]};
+        String[] resNames = {ResList.get(sort[0].sort)[0],ResList.get(sort[1].sort)[0],ResList.get(sort[2].sort)[0],ResList.get(sort[3].sort)[0],
+                ResList.get(sort[4].sort)[0],ResList.get(sort[5].sort)[0],ResList.get(sort[6].sort)[0],ResList.get(sort[7].sort)[0],
+                ResList.get(sort[8].sort)[0],ResList.get(sort[9].sort)[0],ResList.get(sort[10].sort)[0]};
         ListAdapter resAdapter = new CustomAdapter(this, resNames);
 
         ListView resListview = (ListView) findViewById(R.id.SecActListRecom);
         resListview.setAdapter(resAdapter);
 
- /*       resListview.setOnItemClickListener(
+       resListview.setOnItemClickListener(
 
                 new AdapterView.OnItemClickListener() {
                     @Override
                     public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
                         String type;
                         type = ResList.get(sort[position].sort)[8];
-                        *//*whenever the user click on an item, it gets the position of the item and pass it as int position*//*
-                        *//*the string res is the text info needs to be uploaded*//*
                         boolean isinserted = ResListDb.insertRecord(type);
                         if (isinserted == true)
                             Toast.makeText(SecondActivity.this, "data inserted", Toast.LENGTH_LONG).show();
@@ -90,7 +85,7 @@ public class SecondActivity extends AppCompatActivity {
 
                     }
                 }
-        );*/
+        );
 
         /*FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
         fab.setOnClickListener(new View.OnClickListener() {
@@ -109,10 +104,11 @@ public class SecondActivity extends AppCompatActivity {
 
 
 
-    public List<Double> CalculateIndex(){
+    public List<Double> CalculateIndex(SQLiteDatabase db){
         ResDb= new RestaurantDatabaseHelper(this);
-        SQLiteDatabase db = ResDb.getReadableDatabase();
-
+        SQLiteDatabase dbresInfo = ResDb.getReadableDatabase();
+        double[] prefindex = prefIndex(db);
+        //order:asian,pub,italian,cafe,fastfood
         double ulat = 56.0486;
         double ulon = -113.0708;
         /*
@@ -121,8 +117,8 @@ public class SecondActivity extends AppCompatActivity {
 
         List<Double> index = new ArrayList<Double>();
 
-        String[] columns = {"ID", "NAME","RATING", "Latitude", "Longitude"};
-        Cursor cursor = db.query("restaurants", columns, null, null, null, null, null);
+        String[] columns = {"ID", "NAME","RATING", "Latitude", "Longitude","TYPE"};
+        Cursor cursor = dbresInfo.query("restaurants", columns, null, null, null,null, null, null);
         try {
 
             while (cursor.moveToNext()) {
@@ -131,9 +127,19 @@ public class SecondActivity extends AppCompatActivity {
                  double rating = cursor.getDouble(2);
                  double distance = Math.sqrt((lat-ulat)*(lat-ulat)+(lon-ulon)*(lon-ulon));
 
-                /*add a switch method for the preference index*/
-                 index.add(rating/distance*1000);
-                 /*Log.d("test",cursor.getString(1));*/
+                 switch (cursor.getString(5)){
+                     case "Asian": index.add(10000*rating*prefindex[0]/distance);
+                         break;
+                     case "Cafe": index.add(10000*rating*prefindex[3]/distance);
+                         break;
+                     case "Canadian": index.add(10000*rating*prefindex[4]/distance);
+                         break;
+                     case "Italian": index.add(10000*rating*prefindex[2]/distance);
+                         break;
+                     case "Pub&Bar": index.add(10000*rating*prefindex[1]/distance);
+                         break;
+
+                }
 
             }
         }
@@ -153,7 +159,10 @@ public class SecondActivity extends AppCompatActivity {
         }
 
         Arrays.sort(sort);
+
         for (int j=0; j<index.size();j++){
+
+            sort[j].sort = sort[j].sort +1;
             Log.d("pair", String.valueOf(sort[j].sort));
         }
         return sort;
@@ -184,6 +193,103 @@ public class SecondActivity extends AppCompatActivity {
         return list;
 
     }
+
+
+public double[] prefIndex(SQLiteDatabase db){
+      double[] prefindex = new double[5];
+
+      //order:asian,pub,italian,cafe,fastfood
+      //int cntAsian=0, cntCafe=0,cntPub=0,cntItalian=0,cntFastfood=0;
+    String queryAsian = "SELECT * FROM ClickRecord WHERE ResType = 'asian'";
+    String queryPub = "SELECT * FROM ClickRecord WHERE ResType = 'pub'";
+    String queryItalian = "SELECT * FROM ClickRecord WHERE ResType = 'italian'";
+    String queryCafe = "SELECT * FROM ClickRecord WHERE ResType = 'cafe'";
+    String queryFastfood = "SELECT * FROM ClickRecord WHERE ResType = 'fastfood'";
+    Cursor cursorAsian = db.rawQuery(queryAsian,null);
+    Cursor cursorPub = db.rawQuery(queryPub,null);
+    Cursor cursorItalian = db.rawQuery(queryItalian,null);
+    Cursor cursorCafe = db.rawQuery(queryCafe,null);
+    Cursor cursorFastfood = db.rawQuery(queryFastfood,null);
+    int cntAsian = cursorAsian.getCount();
+    int cntPub = cursorPub.getCount();
+    int cntItalian = cursorItalian.getCount();
+    int cntcafe = cursorCafe.getCount();
+    int cntfastfood = cursorFastfood.getCount();
+    int total = cntAsian+cntPub+cntItalian+cntcafe+cntfastfood;
+
+    prefindex[0]= 0.2 + (double)cntAsian/total;
+    Log.d("prefindex",String.valueOf(prefindex[0]));
+    prefindex[1]= 0.2+(double)cntPub/total;
+    Log.d("prefindex",String.valueOf(prefindex[1]));
+    prefindex[2]= 0.2+(double)cntItalian/total;
+    Log.d("prefindex",String.valueOf(prefindex[2]));
+    prefindex[3]= 0.2+(double)cntcafe/total;
+    Log.d("prefindex",String.valueOf(prefindex[3]));
+    prefindex[4]= 0.2+(double)cntfastfood/total;
+    Log.d("prefindex",String.valueOf(prefindex[4]));
+
+    Log.d("count",String.valueOf(total));
+
+     /* String queryPub = "SELECT * FROM ClickRecord WHERE ResType = 'pub'";
+      String queryItalian = "SELECT * FROM ClickRecord WHERE ResType = 'italian'";
+      String queryCafe = "SELECT * FROM ClickRecord WHERE ResType = 'cafe'";
+      String queryFastfood = "SELECT * FROM ClickRecord WHERE ResType = 'fastfood'";
+      Cursor cursorAsian = db.rawQuery(queryAsian,null);
+      Cursor cursorPub = db.rawQuery(queryPub,null);
+      Cursor cursorItalian = db.rawQuery(queryItalian,null);
+      Cursor cursorCafe = db.rawQuery(queryCafe,null);
+      Cursor cursorFastfood = db.rawQuery(queryFastfood,null);*/
+
+    /*  try {
+        while (cursorAsian.moveToNext()) {
+           cntAsian++;
+           Log.d("pref","asian");
+        }
+
+        while (cursorCafe.moveToNext()){
+            cntCafe++;
+            Log.d("pref","cafe");
+
+        }
+
+        while (cursorFastfood.moveToNext()){
+            cntFastfood++;
+            Log.d("pref","fastfood");
+        }
+
+        while (cursorItalian.moveToNext()){
+            cntItalian++;
+            Log.d("pref","italian");
+        }
+
+        while (cursorPub.moveToNext()){
+            cntPub++;
+            Log.d("pref","pub");
+        }
+      }
+      finally {
+          cursorAsian.close();
+          cursorCafe.close();
+          cursorFastfood.close();
+          cursorItalian.close();
+          cursorPub.close();
+      }*/
+/*    int total = cursorAsian.getCount()+cursorCafe.getCount()+cursorFastfood.getCount()+cursorItalian.getCount()+cursorPub.getCount();
+    prefindex[0]= cursorAsian.getCount()/total;
+    Log.d("prefindex",String.valueOf(prefindex[0]));
+    prefindex[1]= cursorPub.getCount()/total;
+    Log.d("prefindex",String.valueOf(prefindex[1]));
+    prefindex[2]= cursorItalian.getCount()/total;
+    Log.d("prefindex",String.valueOf(prefindex[2]));
+    prefindex[3]= cursorCafe.getCount()/total;
+    Log.d("prefindex",String.valueOf(prefindex[3]));
+    prefindex[4]= cursorFastfood.getCount()/total;
+    Log.d("prefindex",String.valueOf(prefindex[4]));*/
+    //order:asian,pub,italian,cafe,fastfood
+
+return prefindex;
+
+}
 
     @Override
     public void onStart() {

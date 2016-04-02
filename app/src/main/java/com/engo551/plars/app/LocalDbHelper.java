@@ -14,7 +14,7 @@ import android.database.sqlite.SQLiteDatabase;
  */
 public class LocalDbHelper extends SQLiteOpenHelper {
 
-    public static final String DATABASE_NAME = "PrefIndex.db";
+    public static final String DATABASE_NAME = "Pref.db";
     public static final String TABLE_NAME = "ClickRecord";
     public static final String COL_1 = "ID";
     public static final String COL_2 = "ResType";
