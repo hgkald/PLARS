@@ -76,7 +76,7 @@ public class SecondActivity extends AppCompatActivity {
                     @Override
                     public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
                         String type;
-                        type = ResList.get(sort[position].sort)[8];
+                        type = ResList.get(sort[position+1].sort)[8];
                         boolean isinserted = ResListDb.insertRecord(type);
                         if (isinserted == true)
                             Toast.makeText(SecondActivity.this, "data inserted", Toast.LENGTH_LONG).show();
@@ -149,8 +149,6 @@ public class SecondActivity extends AppCompatActivity {
         return index;
     }
 
-
-
     public Pair[] SortIndex(List<Double> index){
         Pair [] sort = new Pair[index.size()];
         for (int i=0; i<index.size(); i++){
@@ -162,7 +160,7 @@ public class SecondActivity extends AppCompatActivity {
 
         for (int j=0; j<index.size();j++){
 
-            sort[j].sort = sort[j].sort +1;
+
             Log.d("pair", String.valueOf(sort[j].sort));
         }
         return sort;
@@ -196,7 +194,7 @@ public class SecondActivity extends AppCompatActivity {
 
 
 public double[] prefIndex(SQLiteDatabase db){
-      double[] prefindex = new double[5];
+    double[] prefindex = new double[5];
 
       //order:asian,pub,italian,cafe,fastfood
       //int cntAsian=0, cntCafe=0,cntPub=0,cntItalian=0,cntFastfood=0;
@@ -229,63 +227,6 @@ public double[] prefIndex(SQLiteDatabase db){
     Log.d("prefindex",String.valueOf(prefindex[4]));
 
     Log.d("count",String.valueOf(total));
-
-     /* String queryPub = "SELECT * FROM ClickRecord WHERE ResType = 'pub'";
-      String queryItalian = "SELECT * FROM ClickRecord WHERE ResType = 'italian'";
-      String queryCafe = "SELECT * FROM ClickRecord WHERE ResType = 'cafe'";
-      String queryFastfood = "SELECT * FROM ClickRecord WHERE ResType = 'fastfood'";
-      Cursor cursorAsian = db.rawQuery(queryAsian,null);
-      Cursor cursorPub = db.rawQuery(queryPub,null);
-      Cursor cursorItalian = db.rawQuery(queryItalian,null);
-      Cursor cursorCafe = db.rawQuery(queryCafe,null);
-      Cursor cursorFastfood = db.rawQuery(queryFastfood,null);*/
-
-    /*  try {
-        while (cursorAsian.moveToNext()) {
-           cntAsian++;
-           Log.d("pref","asian");
-        }
-
-        while (cursorCafe.moveToNext()){
-            cntCafe++;
-            Log.d("pref","cafe");
-
-        }
-
-        while (cursorFastfood.moveToNext()){
-            cntFastfood++;
-            Log.d("pref","fastfood");
-        }
-
-        while (cursorItalian.moveToNext()){
-            cntItalian++;
-            Log.d("pref","italian");
-        }
-
-        while (cursorPub.moveToNext()){
-            cntPub++;
-            Log.d("pref","pub");
-        }
-      }
-      finally {
-          cursorAsian.close();
-          cursorCafe.close();
-          cursorFastfood.close();
-          cursorItalian.close();
-          cursorPub.close();
-      }*/
-/*    int total = cursorAsian.getCount()+cursorCafe.getCount()+cursorFastfood.getCount()+cursorItalian.getCount()+cursorPub.getCount();
-    prefindex[0]= cursorAsian.getCount()/total;
-    Log.d("prefindex",String.valueOf(prefindex[0]));
-    prefindex[1]= cursorPub.getCount()/total;
-    Log.d("prefindex",String.valueOf(prefindex[1]));
-    prefindex[2]= cursorItalian.getCount()/total;
-    Log.d("prefindex",String.valueOf(prefindex[2]));
-    prefindex[3]= cursorCafe.getCount()/total;
-    Log.d("prefindex",String.valueOf(prefindex[3]));
-    prefindex[4]= cursorFastfood.getCount()/total;
-    Log.d("prefindex",String.valueOf(prefindex[4]));*/
-    //order:asian,pub,italian,cafe,fastfood
 
 return prefindex;
 
