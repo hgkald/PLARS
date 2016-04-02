@@ -17,10 +17,18 @@
         android:layout_height="wrap_content"
         android:text="View Map"
         android:id="@+id/buttonMap"
-        android:layout_marginTop="49dp"
-        android:layout_marginRight="42dp"
-        android:layout_marginEnd="42dp"
+        android:layout_marginTop="52dp"
         android:layout_alignParentTop="true"
+        android:layout_alignRight="@+id/buttonList"
+        android:layout_alignEnd="@+id/buttonList" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Explore your area"
+        android:id="@+id/buttonList"
+        android:layout_alignParentBottom="true"
         android:layout_alignParentRight="true"
-        android:layout_alignParentEnd="true" />
+        android:layout_alignParentEnd="true"
+        android:layout_marginBottom="135dp" />
 </RelativeLayout>
