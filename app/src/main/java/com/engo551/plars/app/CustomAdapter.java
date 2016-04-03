@@ -23,7 +23,7 @@ public class CustomAdapter extends ArrayAdapter<String> {
         LayoutInflater ListviewInflator = LayoutInflater.from(getContext());
         View customView = ListviewInflator.inflate(R.layout.custom_row, parent, false);
 
-        /*get a reference to the string of 'res' defined in SecondActivity.java*/
+        /*get a reference to the string of 'res' defined in ListActivity.java*/
         String singleResItem = getItem(position);
         TextView ResText = (TextView) customView.findViewById(R.id.CustomText);
         ImageView ResImage = (ImageView) customView.findViewById(R.id.imageView);

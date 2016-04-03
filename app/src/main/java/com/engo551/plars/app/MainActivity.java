@@ -77,7 +77,7 @@ public class MainActivity extends AppCompatActivity {
                 new View.OnClickListener() {
                     @Override
                     public void onClick(View v) {
-                        Intent intent = new Intent("com.engo551.plars.app.SecondActivity");
+                        Intent intent = new Intent("com.engo551.plars.app.ListActivity");
                         startActivity(intent);
 
                         //The following opens google maps

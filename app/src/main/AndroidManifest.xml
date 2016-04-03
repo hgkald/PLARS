@@ -59,8 +59,8 @@
             android:value="@integer/google_play_services_version" />
 
         <activity
-            android:name=".SecondActivity"
-            android:label="@string/title_activity_second"
+            android:name=".ListActivity"
+            android:label="@string/title_activity_list"
             android:theme="@style/AppTheme.NoActionBar">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
@@ -69,7 +69,7 @@
             <intent-filter>
                 <category android:name="android.intent.category.DEFAULT" />
 
-                <action android:name="com.engo551.plars.app.SecondActivity" />
+                <action android:name="com.engo551.plars.app.ListActivity" />
             </intent-filter>
         </activity>
     </application>
