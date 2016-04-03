@@ -26,5 +26,6 @@ dependencies {
     compile 'com.android.support:design:23.2.1'
     compile 'com.google.android.gms:play-services:8.4.0'
     compile 'com.readystatesoftware.sqliteasset:sqliteassethelper:+'
+    compile 'com.squareup.picasso:picasso:2.5.2'
     compile files('libs/opencsv-3.7.jar')
 }
