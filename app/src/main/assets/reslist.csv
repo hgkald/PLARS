@@ -1,0 +1,568 @@
+name,rating,picture,address,city,postcode,lon,lat,type,id
+Buffet,2.5,//s3-media1.fl.yelpcdn.com/bphoto/m8k4GCu51_ePPmKARvk0JQ/90s.jpg,9125 Bonaventure Dr SE,Calgary,T2J 0P5,-114.068874,50.96965,asian,1
+Hot Point Fusion Cafe,2.5,//s3-media2.fl.yelpcdn.com/bphoto/3yqespOYlC8XS56IDU-UjA/90s.jpg,4340 Macleod Trail SW,Calgary,T2G 0A4,-114.064618,51.015181,asian,2
+Koto Sushi Lounge,2.5,//s3-media4.fl.yelpcdn.com/bphoto/vy1TReJz6AVmQdqnHZ1rLQ/90s.jpg,435 4 Avenue SW,Calgary,T2P 1E3,-114.071051,51.049523,asian,3
+New Dynasty Buffet Restaurant,2.5,//s3-media3.fl.yelpcdn.com/bphoto/txmNtUeVKSTK3VXmGCyxPA/90s.jpg,575 28 Street SE,Calgary,T2A 6X1,-113.989569,51.047786,asian,4
+Wok Box,2.5,//s3-media2.fl.yelpcdn.com/bphoto/I2ji2o1cUMQ025EY-sgLxw/90s.jpg,4916 130 Avenue SE,Calgary,T2Z 0G4,-113.963503,50.932056,asian,5
+Fire Kirin,3,//s3-media1.fl.yelpcdn.com/bphoto/4RtwkMioShjG7U--X0utcA/90s.jpg,12101 Lake Fraser Drive Southeast,Calgary,T2J 7G4,-114.068569,50.945702,asian,6
+Fryday,3,//s3-media4.fl.yelpcdn.com/bphoto/a42U891ZNXbVZd5cJ926Mg/90s.jpg,4105 4 Street NW,Calgary,T2K 1A2,-114.071654,51.08795,asian,7
+Fusion Sushi,3,//s3-media3.fl.yelpcdn.com/bphoto/ZuidgfFmzD7duT0BbfuiOQ/90s.jpg,511 McKnight Boulevard NE,Calgary,T2E 8P1,-114.05307,51.09597,asian,8
+Manrijangsung Korean Restaurant,3,//s3-media1.fl.yelpcdn.com/bphoto/d0ABOuoUp2vq-L6SUra_6A/90s.jpg,935 7 Ave SW,Calgary,T2P 1A5,-114.082073,51.047025,asian,9
+Taketomi Village Japanese Restaurant,3,//s3-media3.fl.yelpcdn.com/bphoto/Tkxqs6LULut2f7cwwkjzIg/90s.jpg,920 36 Street NE,Calgary,T2A 6L8,-113.981447,51.061501,asian,10
+Tang Restaurant,3,//s3-media3.fl.yelpcdn.com/bphoto/KZFRubVDskaJmkyJuydkdg/90s.jpg,909 - 33 Heritage Meadows Way SE,Calgary,T2H 3B8,-114.04138,50.983891,asian,11
+Thai Boat,3,//s3-media4.fl.yelpcdn.com/bphoto/Ieh_QI5_oCtktnESIsTwuA/90s.jpg,2323 32 Avenue NE,Calgary,T2E 6Z3,-114.006837,51.081397,asian,12
+Wok Fo-U,3,//s3-media3.fl.yelpcdn.com/bphoto/PT9eLGnQUak0AVzKsZ20Kw/90s.jpg,106 2763 Sunridge Way NE,Calgary,T1Y 7K7,-113.998614,51.072115,asian,13
+Wow Chicken,3,//s3-media4.fl.yelpcdn.com/bphoto/HXNFD4tdJdRH-jej0_vUhw/90s.jpg,324 10 Street NW,Calgary,T2N 1V8,-114.085898,51.05448,asian,14
+Zen 8 Grill,3,//s3-media2.fl.yelpcdn.com/bphoto/3rHoJ7pH23dvm3Irl9InWw/90s.jpg,421 12 Avenue SE,Calgary,T2G,-114.054671,51.041123,asian,15
+1 Pot,3.5,//s3-media2.fl.yelpcdn.com/bphoto/AMJB0xc_GzdR81BZRrIr3g/90s.jpg,123 3 Avenue SE,Calgary,T2G 0B7,-114.061381,51.050203,asian,16
+1886 Buffalo Cafe,3.5,//s3-media3.fl.yelpcdn.com/bphoto/2K4o4KX0O1vTFcwsLqXH8A/90s.jpg,187 Barclay Parade SW,Calgary,T2P 4R5,-114.07057,51.04661,asian,17
+Bagolac Saigon Restaurant,3.5,//s3-media1.fl.yelpcdn.com/bphoto/vnE9ZDwUqImOIv0eKfLjVQ/90s.jpg,6130 1A Street SW,Calgary,T2H 0G3,-114.067567,50.99816,asian,18
+Banana Leaf Troal Cuisine,3.5,//s3-media3.fl.yelpcdn.com/bphoto/Drtdz9Wu-sUhh3Fb1PimUQ/90s.jpg,3330 32 Street NE,Calgary,T1Y 5Y9,-113.988566,51.082074,asian,19
+Boxwood Cafe,3.5,//s3-media3.fl.yelpcdn.com/bphoto/totRBrr2nu-mcRkzFzldAA/90s.jpg,340 13th Avenue SW,Calgary,T2R 0W9,-114.068887,51.040675,asian,20
+Bubblemania Cafe,3.5,//s3-media3.fl.yelpcdn.com/bphoto/siZqVqBnn3oB77SYlBFeHg/90s.jpg,16 Avenue NE,Calgary,T2E 1K3,-114.054478,51.066795,asian,21
+Calgary Court Restaurant,3.5,//s3-media1.fl.yelpcdn.com/bphoto/K1MusZU6KxdxRlO2-GmvZg/90s.jpg,119 2 Ave SE,Calgary,T2G 0B2,-114.061511,51.051153,asian,22
+California Thai,3.5,//s3-media3.fl.yelpcdn.com/bphoto/r-DAgTQ5y6CTyxEnK9kwBg/90s.jpg,11658 Sarcee Trail NW,Calgary,T3R 0A1,-114.162122,51.157729,asian,23
+Fergus & Bix,3.5,//s3-media1.fl.yelpcdn.com/bphoto/oBzJoABzE2v7UPfc3FUsOQ/90s.jpg,873 85th Street SW,Calgary,T3H 4C8,-114.211125,51.060651,asian,24
+Fergus & Bix Restaurant and Beer Market,3.5,//s3-media4.fl.yelpcdn.com/bphoto/Ortby4j4oz3keT6ak_aYWw/90s.jpg,2018 33 Avenue SW,Calgary,T2T 1Z4,-114.107971,51.024018,asian,25
+Fiore Cantina Italiana,3.5,//s3-media1.fl.yelpcdn.com/bphoto/V5xa4yM0_I0c6RiTr0RQDA/90s.jpg,638 17 Avenue SW,Calgary,T2S 0B4,-114.075895,51.037858,asian,26
+Forbidden City Dim Sum & Seafood Restaurant,3.5,//s3-media1.fl.yelpcdn.com/bphoto/0AE9lBia1X-gdqogh519EA/90s.jpg,999 36 St NE,Calgary,T2A 7X6,-113.981964,51.061381,asian,27
+Globefish Sushi & Izakaya,3.5,//s3-media3.fl.yelpcdn.com/bphoto/79OBPWWYZ8iKBxq_YL3Lsw/90s.jpg,332 14 St NW,Calgary,T2N 1Z7,-114.094686,51.054451,asian,28
+Globefish Sushi & Izakaya,3.5,//s3-media1.fl.yelpcdn.com/bphoto/dsHHlESHSbxav0o8hqjFNw/90s.jpg,6455 Macleod Trail SW,Calgary,T2H,-114.071737,50.995944,asian,29
+Golden Bell Saigon & Vietnamese Restaurant,3.5,//s3-media4.fl.yelpcdn.com/bphoto/FnqsmQZjBP6yOGrYAb9nFg/90s.jpg,6008 MacLeod Trl SW,Calgary,T2H 0K1,-114.071407,50.999623,asian,30
+Hapa Izakaya,3.5,//s3-media1.fl.yelpcdn.com/bphoto/Wt2LdGRS7gsyKsvfrX8ESQ/90s.jpg,816 11th Ave SW,Calgary,T2R,-114.079495,51.04284,asian,31
+Ho Won Restaurant,3.5,//s3-media1.fl.yelpcdn.com/bphoto/4wlGOHJqmpX6ySREujembw/90s.jpg,115 2 Avenue SouthEast,Calgary,T2G 0B2,-114.061721,51.051163,asian,32
+Ichi Rock,3.5,//s3-media3.fl.yelpcdn.com/bphoto/SorOfPlW9Gsw3st-tf-REw/90s.jpg,923 6 Avenue SW,Calgary,T2P 3E5,-114.081802,51.047983,asian,33
+JOEY Chinook,3.5,//s3-media2.fl.yelpcdn.com/bphoto/_Cux8Lm0O0wpygpWj4B4iw/90s.jpg,6455 MacLeod Trail SW,Calgary,T2H 0K8,-114.071737,50.995944,asian,34
+Lazy Monkey,3.5,//s3-media4.fl.yelpcdn.com/bphoto/3E1sHBpSBmX9F0Jd_IofpA/90s.jpg,3616 52nd Avenue NW,Calgary,T2L 1V9,-114.13943,51.100978,asian,35
+Milestones Restaurant,3.5,//s3-media4.fl.yelpcdn.com/bphoto/nPHpT1wVY0oZnN3kIqzIwg/90s.jpg,107 8 Ave SE,Calgary,T2G 0K4,-114.062729,51.045478,asian,36
+Orchid Room Fusion Cuisine,3.5,//s3-media4.fl.yelpcdn.com/bphoto/HLP_MNBy9lF0cWSR_P7P-A/90s.jpg,Bankers Hall,Calgary,T2P 4K1,-114.06834,51.045631,asian,37
+Pho Kim Restaurant,3.5,//s3-media3.fl.yelpcdn.com/bphoto/J3ynQxKfosUQB5pQqjcMFw/90s.jpg,1511 Centre B St NW,Calgary,T2M 2R5,-114.063764,51.065862,asian,38
+Rose Garden,3.5,//s3-media4.fl.yelpcdn.com/bphoto/WcV37-C0WbAWVL_aB4Tzgg/90s.jpg,112 8th Ave SW,Calgary,T2P 1B3,-114.06383,51.045568,asian,39
+Saigon Pearl Vietnamese Restaurant,3.5,//s3-media3.fl.yelpcdn.com/bphoto/EIU_18WhtR-o3P9SEemD3Q/90s.jpg,9650 Harvest Hills Boulevard NE,Calgary,T3K 0B3,-114.069952,51.141579,asian,40
+Seoul Korean BBQ Restaurant,3.5,//s3-media1.fl.yelpcdn.com/bphoto/GhPYrxPZGlacr0QQ1Ja5ig/90s.jpg,4336 MacLeod Trail SW,Calgary,T2G 0A4,-114.064597,51.015226,asian,41
+Shibuya Izakaya,3.5,//s3-media4.fl.yelpcdn.com/bphoto/xQ3B0MPkjO8ILHY9XHj7wQ/90s.jpg,449 16 Avenue NE,Calgary,T2E,-114.054125,51.066817,asian,42
+Silver Dragon Restaurant,3.5,//s3-media2.fl.yelpcdn.com/bphoto/B7st5ou1mHa0tstCfLqrWg/90s.jpg,106 3 Avenue SE,Calgary,T2G 0B6,-114.062421,51.050274,asian,43
+Sukiyaki House,3.5,//s3-media2.fl.yelpcdn.com/bphoto/WOU9R3R6GX72kSFEVbwL_Q/90s.jpg,207 9th Avenue SW,Calgary,T2P 1K3,-114.066481,51.044674,asian,44
+Sushi Hiro Japanese Restaurant,3.5,//s3-media2.fl.yelpcdn.com/bphoto/LWoPw-hABYOuMtWsszMFKA/90s.jpg,727 5 Avenue SW,Calgary,T2P 0N2,-114.078162,51.048782,asian,45
+T.Pot China Bistro,3.5,//s3-media1.fl.yelpcdn.com/bphoto/LEkT297BmqHkCSkMHL7-Jw/90s.jpg,100 - 9650 Harvest Hills Boulevard NE,Calgary,T3K 0B3,-114.069952,51.141579,asian,46
+The King & I Thai Cuisine,3.5,//s3-media1.fl.yelpcdn.com/bphoto/V7cdls13JIrPU0D_j78DTw/90s.jpg,822 11 Avenue SW,Calgary,T2R 0E5,-114.08021,51.042858,asian,47
+The Palomino Smokehouse,3.5,//s3-media2.fl.yelpcdn.com/bphoto/QKQuWa1-T7ydrSaOUzp5gA/90s.jpg,109 7th Avenue SW,Calgary,T2P 0W5,-114.063552,51.046443,asian,48
+The Ruby Queen,3.5,//s3-media2.fl.yelpcdn.com/bphoto/rzHDcdTaucQ4gbx133rMNg/90s.jpg,5401 NE Temple Drive,Calgary,T1Y 3R7,-113.955181,51.085873,asian,49
+Wok Box,3.5,//s3-media2.fl.yelpcdn.com/bphoto/2Z7Gup5xnGdPpDG2_tzcjQ/90s.jpg,288 Aspen Glen Landing Sw,Calgary,T3H 0N5,-114.207767,51.039472,asian,50
+303 Fusion Kitchen,4,//s3-media3.fl.yelpcdn.com/bphoto/DzhFy0YVxEDAaHF3LxEfjA/90s.jpg,4413 17th Avenue SE,Calgary,T2A,-113.970521,51.037823,asian,51
+Alloy,4,//s3-media4.fl.yelpcdn.com/bphoto/J1Sse-qiQnd1-rAHf5qPgg/90s.jpg,220 42 Avenue SE,Calgary,T2G 1Y4,-114.060387,51.016009,asian,52
+Ambrosia Veggie House,4,//s3-media2.fl.yelpcdn.com/bphoto/L8NDgawjGEiqEdIscMaR9g/90s.jpg,1009 4th Avenue SW,Calgary,T2P 0K8,-114.084151,51.049943,asian,53
+Anju,4,//s3-media4.fl.yelpcdn.com/bphoto/e-UjiJdP7z7iaOUtAwwJIw/90s.jpg,344 17th Avenue SW,Calgary,T2S 0A5,-114.069253,51.037855,asian,54
+Basil Ultimate Pho and Fine Vietnamese Cuisine,4,//s3-media4.fl.yelpcdn.com/bphoto/JoSeO4-AgGU1538aV7KirA/90s.jpg,2770 32 Avenue NE,Calgary,T1Y 5S5,-113.99585,51.081578,asian,55
+Blackfoot Truck Stop Restaurant,4,//s3-media1.fl.yelpcdn.com/bphoto/-6QV_TchZlyaq3UurR48MA/90s.jpg,1840 9 Avenue SE,Calgary,T2G 0T8,-114.020479,51.035727,asian,56
+Brasserie Kensington,4,//s3-media2.fl.yelpcdn.com/bphoto/hau-5XE1br5rE8spjk8Plg/90s.jpg,1131 Kensington Road NW,Calgary,T2N 3P4,-114.08778,51.052494,asian,57
+Burger 320,4,//s3-media2.fl.yelpcdn.com/bphoto/4Jo6CwDQYrc2Zeh-1A_jag/90s.jpg,814 1 Avenue NE,Calgary,T2E 0C1,-114.044831,51.053248,asian,58
+Cafe Koi,4,//s3-media1.fl.yelpcdn.com/bphoto/KpvEskCFtBk78i4EXrBmSA/90s.jpg,1011 1 Street SW,Calgary,T2R 1J2,-114.065714,51.042592,asian,59
+Carino Japanese Bistro + Wine,4,//s3-media3.fl.yelpcdn.com/bphoto/DBVamqE5nEUnG5FMr4d6ew/90s.jpg,709 Edmonton Trail NE,Calgary,T2E 3J5,-114.054394,51.058292,asian,60
+Cedars Deli,4,//s3-media4.fl.yelpcdn.com/bphoto/M5D_u7uY9R4yDbAhoKMNsA/90s.jpg,Market Mall,Calgary,T3A 5P9,-114.15721,51.08167,asian,61
+Cilantro,4,//s3-media3.fl.yelpcdn.com/bphoto/5_EDt1NYmn3nYk229GsduA/90s.jpg,338 17 Avenue SW,Calgary,T2S 0A8,-114.06917,51.037856,asian,62
+Co Do Vietnamese Restaurant,4,//s3-media3.fl.yelpcdn.com/bphoto/IiMWkoTnBwL8cjZyQKLXLg/90s.jpg,17 Avenue SW,Calgary,T2T 0C6,-114.093881,51.03777,asian,63
+Dragon Chinese Restaurant,4,//s3-media3.fl.yelpcdn.com/bphoto/ksoXfi2bv9wclpT9czE8Gg/90s.jpg,118 - 5 Avenue SE,Calgary,T2G 0E2,-114.0618,51.048358,asian,64
+Dragon Pearl Restaurant,4,//s3-media2.fl.yelpcdn.com/bphoto/6_9ETBEz7admLmMIXN74gA/90s.jpg,9 Avenue SE,Calgary,T2G 0S9,-114.036321,51.04197,asian,65
+Eastern Fortune Restaurant,4,//s3-media1.fl.yelpcdn.com/bphoto/QYfpaQOTMiBYAaaVpiD4ag/90s.jpg,416 16 Ave NE,Calgary,T2E 1K2,-114.055071,51.067038,asian,66
+Eggs & More,4,//s3-media3.fl.yelpcdn.com/bphoto/XAxpFwhmrzyuVevebwDZig/90s.jpg,5441 Falsbridge Drive NE,Calgary,T3J 3E8,-113.956881,51.097691,asian,67
+Gaucho Brazilian Barbecue,4,//s3-media1.fl.yelpcdn.com/bphoto/UMG7zbJEfzfUSW5q6dB6SA/90s.jpg,100-5920 Macleod Trl SW,Calgary,T2H 0K2,-114.071436,51.000511,asian,68
+Ginger Beef Bistro House,4,//s3-media2.fl.yelpcdn.com/bphoto/D3AHnke6aq9qwo6deF6-nA/90s.jpg,388 Country Hills Boulevard NE,Calgary,T3K 5J6,-114.061471,51.154277,asian,69
+Golden Inn Restaurant,4,//s3-media3.fl.yelpcdn.com/bphoto/LAHqbrCdWl1uE2wF8obFzg/90s.jpg,107A 2nd Ave SE,Calgary,T2G 0B2,-114.062111,51.051173,asian,70
+Indonesian Kitchen,4,//s3-media1.fl.yelpcdn.com/bphoto/OJEFPVuqNBztKhWGMF8hyQ/90s.jpg,3917 17 Ave SE,Calgary,T2A,-113.977551,51.037813,asian,71
+kabuku,4,//s3-media3.fl.yelpcdn.com/bphoto/crHMFKMZNsjnEJXQD2J-kw/90s.jpg,414 3rd Street SW,Calgary,T2P 1R2,-114.070077,51.048897,asian,72
+Kinjo Sushi,4,//s3-media3.fl.yelpcdn.com/bphoto/eoZQIr-O4Ta88so0kt0Ivg/90s.jpg,5005 Dalhousie Drive NW,Calgary,T3A 5R8,-114.159283,51.106634,asian,73
+Maurya Authentic East Indian Cuisine,4,//s3-media1.fl.yelpcdn.com/bphoto/ovHvYIyQyO6IMshzEx64bw/90s.jpg,1204 Kensington Road NW,Calgary,T2N 3P5,-114.08908,51.052548,asian,74
+Mirchi Restaurant,4,//s3-media3.fl.yelpcdn.com/bphoto/_y_iuF4-7_CIS-xTPUk6cg/90s.jpg,825 12 Avenue SW,Calgary,T2R 0J2,-114.080592,51.041883,asian,75
+Misato Japanese Restaurant,4,//s3-media4.fl.yelpcdn.com/bphoto/QqRZyiYhV8fnB4rPzwG6Cw/90s.jpg,1851 Sirocco Drive SW,Calgary,T3H 4R5,-114.168997,51.036823,asian,76
+Monki Breakfast Club & Bistro,4,//s3-media2.fl.yelpcdn.com/bphoto/xxUgAhih4C7A1O_iBs2GmQ/90s.jpg,1301 10th Avenue sw,Calgary,T3C 0J2,-114.091501,51.044093,asian,77
+Moti Mahal,4,//s3-media3.fl.yelpcdn.com/bphoto/NdmltrdsvmNEwMw1xlXhoA/90s.jpg,1805 14 Street SW,Calgary,T2T 3T1,-114.094754,51.037332,asian,78
+Ox & Angela,4,//s3-media2.fl.yelpcdn.com/bphoto/Hwnj-IMGceP6Qxd5PmUmTQ/90s.jpg,528 17th Avenue SW,Calgary,T2S 0A9,-114.07312,51.037858,asian,79
+Pfanntastic Pannenkoek Haus,4,//s3-media3.fl.yelpcdn.com/bphoto/PfSkbij1QROBgjbH4zu6_A/90s.jpg,2439 54 Avenue SW,Calgary,T3E 1M4,-114.117191,51.005003,asian,80
+Pho Chu The,4,//s3-media4.fl.yelpcdn.com/bphoto/y-rPF9mYYyljaM5JyGxw7w/90s.jpg,4633 Macleod Trail SW,Calgary,T2G 5C1,-114.066247,51.012336,asian,81
+Pie Cloud,4,//s3-media2.fl.yelpcdn.com/bphoto/GX0Rfna4tYh5a55C31St1g/90s.jpg,314D 10th Street NW,Calgary,T2N 1V8,-114.085897,51.05463,asian,82
+Se 7,4,//s3-media4.fl.yelpcdn.com/bphoto/1Y2-C9wOrj4LL4EQnU_Gjw/90s.jpg,739 2nd Avenue SW,Calgary,T2P 0E4,-114.078082,51.051643,asian,83
+Se Hut,4,//s3-media3.fl.yelpcdn.com/bphoto/IkNxgnJe1mtabbKKPWFKzQ/90s.jpg,6554 4 St NE,Calgary,T2K 6H2,-114.056719,51.111505,asian,84
+Shiki Menya,4,//s3-media4.fl.yelpcdn.com/bphoto/80iyfea1MOEHORucoU2GRw/90s.jpg,827 1 Avenue NE,Calgary,T2E 0C3,-114.044031,51.053194,asian,85
+Spoonful Chinese & Thai Cuisine,4,//s3-media3.fl.yelpcdn.com/bphoto/KYE175a2Lu1-mhOdqtwUxA/90s.jpg,6404 Bowness Rd NW,Calgary,T3B,-114.18014,51.085752,asian,86
+Sy Hut,4,//s3-media4.fl.yelpcdn.com/bphoto/HET2OrjwVYjZB6jWqVPrrg/90s.jpg,203B 4 Street NE,Calgary,T2E 3S1,-114.051754,51.053496,asian,87
+Taste Restaurant,4,//s3-media1.fl.yelpcdn.com/bphoto/InYjEvMrgCF5xkHUme9nYQ/90s.jpg,1210 1st Street SW,Calgary,T2R 0V4,-114.065735,51.041313,asian,88
+Teaspoon Restaurant & Catering,4,//s3-media4.fl.yelpcdn.com/bphoto/k3rqOtowsk_zk4ElXCTegw/90s.jpg,3220 28 Street SW,Calgary,T3E 2J6,-114.128007,51.025812,asian,89
+Thai Bistro,4,//s3-media1.fl.yelpcdn.com/bphoto/KFZYIWMVKrgbihxYairrvA/90s.jpg,233 Centre Street SW,Calgary,T2G 2B7,-114.062724,51.050604,asian,90
+Thanh Long Noodle House,4,//s3-media1.fl.yelpcdn.com/bphoto/cMveNrXfEgtqGLGmnUufbw/90s.jpg,1204 17 Avenue SW,Calgary,T2T 0B8,-114.089571,51.037848,asian,91
+Tiffin Curry & Roti House,4,//s3-media4.fl.yelpcdn.com/bphoto/vJThn4fb-JByb7IH9GefCw/90s.jpg,188 28 Street SE,Calgary,T2A 6J9,-113.99305,51.050675,asian,92
+Toad N Turtle Pubhouse & Grill,4,//s3-media4.fl.yelpcdn.com/bphoto/l7mg4paBc3X5CtuvK7wvDQ/90s.jpg,2475 27 Avenue NE,Calgary,T2E 8M1,-114.00323,51.076783,asian,93
+Tubby Dog,4,//s3-media4.fl.yelpcdn.com/bphoto/1GCW9CEfHH93kq36dpdlHQ/90s.jpg,17 Avenue SW,Calgary,T2T 0A5,-114.08443,51.037881,asian,94
+Vietnamese Village Express,4,//s3-media4.fl.yelpcdn.com/bphoto/5Sh8Eidmu3tCPUyzx_TrGQ/90s.jpg,910 7 Ave SW,Calgary,T2P 3N8,-114.08207,51.047078,asian,95
+Village Wok and Grill,4,//s3-media4.fl.yelpcdn.com/bphoto/cH4JpTEAyQkeQZYy8VsziA/90s.jpg,736 8 Ave SW,Calgary,T2P 1H3,-114.078389,51.046018,asian,96
+Yellow Door Bistro,4,//s3-media1.fl.yelpcdn.com/bphoto/Qaq16sn1JjylRz48_mp8bQ/90s.jpg,119 12th Avenue SW,Calgary,T2R 0V1,-114.064361,51.041413,asian,97
+Han Corea,4.5,//s3-media3.fl.yelpcdn.com/bphoto/GS4W_CBuMiqNrluBgLFkaA/90s.jpg,7008 Farrell Road SE,Calgary,T2H 0T2,-114.060041,50.992067,asian,98
+Khao San Thai Kitchen,4.5,//s3-media3.fl.yelpcdn.com/bphoto/Q5rSKpCwkdo5xXIfEtpZ6w/90s.jpg,1314-17 Avenue SW,Calgary,T2T 0C3,-114.09257,51.037848,asian,99
+Mamak Dang Fusion Malaysian Cuisine,4.5,//s3-media1.fl.yelpcdn.com/bphoto/mdDTS20vHXjwDgdOwwTrtQ/90s.jpg,4604 12th Street NE,Calgary,T2E 4R3,-114.033367,51.09371,asian,100
+Noodlebox,4.5,//s3-media2.fl.yelpcdn.com/bphoto/m9GogYObRSZuTtyxouPyWg/90s.jpg,9 Heritage Gate SE,Calgary,T2H 3A7,-114.044245,50.987423,asian,101
+Olive Chicken,4.5,//s3-media2.fl.yelpcdn.com/bphoto/U8fhrgcfdp34vhEXZfN52Q/90s.jpg,1324 10 Avenue SW,Calgary,T3C 0J2,-114.092549,51.044178,asian,102
+Pho Dau Bo,4.5,//s3-media3.fl.yelpcdn.com/bphoto/jjP8s7yvUN9ZU01n_ate7g/90s.jpg,110-4909 17 Ave SE,Calgary,T2A 0V5,-113.96367,51.037813,asian,103
+Saigon Red Sky,4.5,//s3-media3.fl.yelpcdn.com/bphoto/gO-hynYwrSmRrATO4sRo9Q/90s.jpg,176 Bedford Drive NE,Calgary,T3K 2M9,-114.055816,51.126577,asian,104
+South Silk Road Chinese Restaurant,4.5,//s3-media1.fl.yelpcdn.com/bphoto/D_bpAhXShbwsTg-IA5T3vg/90s.jpg,823 14 Street NW,Calgary,T2N 2A4,-114.094754,51.059071,asian,105
+Thi Thi Vietnamese Subs,4.5,//s3-media2.fl.yelpcdn.com/bphoto/vpGG55GyLyDD3b4R7SE9dw/90s.jpg,209 1 St SE,Calgary,T2G 2G3,-114.060185,51.050768,asian,106
+Troal Delight Noodle House,4.5,//s3-media4.fl.yelpcdn.com/bphoto/HAFHb5Vl6uWM4pgeuSTzKw/90s.jpg,10089 Hidden Valley Drive NW,Calgary,T3A 5Z7,-114.107384,51.146993,asian,107
+Watercress Express,4.5,//s3-media4.fl.yelpcdn.com/bphoto/QIjMEuAdl8lB2ZI5iCcYnA/90s.jpg,1322 17th Avenue SW,Calgary,T2T 0C3,-114.09286,51.037848,asian,108
+Workshop Kitchen + Culture,4.5,//s3-media2.fl.yelpcdn.com/bphoto/8Hhbl0JHp2JR0VqRALKRqw/90s.jpg,608 1 Street SW,Calgary,T2P 1M6,-114.065299,51.047344,asian,109
+Yum Yum BBQ Chicken,4.5,//s3-media2.fl.yelpcdn.com/bphoto/vHEZYeUq3t2A8N_fffj3gw/90s.jpg,10233 Elbow Drive SW,Calgary,T2W 1G1,-114.084823,50.961973,asian,110
+Carino Riserva,5,//s3-media4.fl.yelpcdn.com/bphoto/0osoX3UAgFOam9UuB1mtwQ/90s.jpg,2206 4th Street SW,Calgary,T2S 1W9,-114.071488,51.033228,asian,111
+The ROCK Cafe & Restaurant,5,//s3-media3.fl.yelpcdn.com/bphoto/UcRp7qAhP-pmZzuA6YlHig/90s.jpg,1446 17 Avenue SW,Calgary,T2T 0C8,-114.0951,51.037846,asian,112
+Roosevelt,3.5,//s3-media4.fl.yelpcdn.com/bphoto/1XHZe05ndXufz2HWtwyAbg/90s.jpg,933 17th Avenue SW,Calgary,T2T 5R6,-114.083901,51.037803,asian,113
+Edgemont City,3,//s3-media1.fl.yelpcdn.com/bphoto/7TwzeNJKziKG8Ucb8qTJiA/90s.jpg,45 Edenwold Dr NW,Calgary,T3A 3S8,-114.138594,51.126567,asian,114
+CRAFT Beer Market,3.5,//s3-media4.fl.yelpcdn.com/bphoto/zucrtSiuKDJvj24O76bIUg/90s.jpg,345 10th Avenue SW,Calgary,T2R 0A5,-114.068935,51.043438,asian,115
+1886 Buffalo,3.5,//s3-media3.fl.yelpcdn.com/bphoto/2K4o4KX0O1vTFcwsLqXH8A/90s.jpg,187 Barclay Parade SW,Calgary,T2P 4R5,-114.07057,51.04661,cafe,116
+Airside Bistro,4,//s3-media4.fl.yelpcdn.com/bphoto/mcT7cLChPospKHEaCFbF-A/90s.jpg,1441 Aviation Park NE,Calgary,T2E 8M7,-114.030504,51.100041,cafe,117
+Airside Bistro,4,//s3-media4.fl.yelpcdn.com/bphoto/mcT7cLChPospKHEaCFbF-A/90s.jpg,1441 Aviation Park NE,Calgary,T2E 8M7,-114.030504,51.100041,cafe,118
+Alforno Bakery,4,//s3-media3.fl.yelpcdn.com/bphoto/D021fn1hTU7tMNMOQRpvWw/90s.jpg,222 7th Street SW,Calgary,T2P 0E4,-114.078317,51.051423,cafe,119
+Amato Gelato,3.5,//s3-media2.fl.yelpcdn.com/bphoto/z9HTtPGn-T2miTFloqKAwg/90s.jpg,2104 Kensington Road NW,Calgary,T2N 3R7,-114.108521,51.052528,cafe,120
+Amato Gelato,3.5,//s3-media2.fl.yelpcdn.com/bphoto/z9HTtPGn-T2miTFloqKAwg/90s.jpg,2104 Kensington Road NW,Calgary,T2N 3R7,-114.108521,51.052528,cafe,121
+Analog Coffee,5,//s3-media4.fl.yelpcdn.com/bphoto/9kJtI5uLNqvJg_seejNcJg/90s.jpg,100 Anderson Rd SE,Calgary,T2J 3V1,-114.062314,50.949865,cafe,122
+Anous Desserts & Gelato,5,//s3-media2.fl.yelpcdn.com/bphoto/LOwErjOtQ5sp25_Ls0tekA/90s.jpg,323 17 Avenue SW,Calgary,T2S 2V1,-114.06982,51.037803,cafe,123
+Artigiano,4,//s3-media2.fl.yelpcdn.com/bphoto/km3H-2-jbcCLHmzkZvUc9Q/90s.jpg,110 - 5010 Richard Road SW,Calgary,T3E 6L1,-114.129124,51.00973,cafe,124
+Artigiano,4,//s3-media2.fl.yelpcdn.com/bphoto/km3H-2-jbcCLHmzkZvUc9Q/90s.jpg,110 - 5010 Richard Road SW,Calgary,T3E 6L1,-114.129124,51.00973,cafe,125
+Artigiano,4.5,//s3-media3.fl.yelpcdn.com/bphoto/3OI_El4vCutVDZEKiKrw9g/90s.jpg,414 3 Street SW,Calgary,T2P 0J1,-114.070077,51.048897,cafe,126
+Artigiano,4,//s3-media4.fl.yelpcdn.com/bphoto/Cl-VaQtY5O1swXtEfJSEaA/90s.jpg,400 4th St SW,Calgary,T2P 2H5,-114.07142,51.04948,cafe,127
+Artigiano,4,//s3-media4.fl.yelpcdn.com/bphoto/Cl-VaQtY5O1swXtEfJSEaA/90s.jpg,400 4th St SW,Calgary,T2P 2H5,-114.07142,51.04948,cafe,128
+ATCO Blue Flame Kitchen,3.5,//s3-media4.fl.yelpcdn.com/assets/srv0/yelp_styleguide/c73d296de521/assets/img/default_avatars/business_90_square.png,911 11 Avenue SW,Calgary,T2R 0E7,-114.081817,51.042847,cafe,129
+Avenue Deli,3.5,//s3-media4.fl.yelpcdn.com/bphoto/_Alp8eNm39E1tvAJzMTAoQ/90s.jpg,2008 33 Ave SW,Calgary,T2T 1Z4,-114.10751,51.024018,cafe,130
+Avenue Deli,3.5,//s3-media4.fl.yelpcdn.com/bphoto/_Alp8eNm39E1tvAJzMTAoQ/90s.jpg,2008 33 Ave SW,Calgary,T2T 1Z4,-114.10751,51.024018,cafe,131
+Bazille-Nordstrom,4,//s3-media4.fl.yelpcdn.com/bphoto/EHK5Uxup7NfdQVnQh1v8Ag/90s.jpg,6455 Macleod Trail SW,Calgary,T2H 0K8,-114.071737,50.995944,cafe,132
+Bazille-Nordstrom,4,//s3-media4.fl.yelpcdn.com/bphoto/EHK5Uxup7NfdQVnQh1v8Ag/90s.jpg,6455 Macleod Trail SW,Calgary,T2H 0K8,-114.071737,50.995944,cafe,133
+Beano,4,//s3-media2.fl.yelpcdn.com/bphoto/9On7HIpCDMO6FDcsNKmqrQ/90s.jpg,1613 9 Street SW,Calgary,T2R 1E1,-114.084299,51.038056,cafe,134
+Blanca,4.5,//s3-media3.fl.yelpcdn.com/bphoto/06hOSGOgCZmtAlFRWFGDww/90s.jpg,240 Riverfront Avenue SW,Calgary,T2P 2G8,-114.066013,51.052322,cafe,135
+Blue Star Diner,4,//s3-media4.fl.yelpcdn.com/bphoto/zqr2b6LCpKawlY3hhg0OUw/90s.jpg,809 1st Ave NE,Calgary,T2E,-114.04489,51.053193,cafe,136
+Boxwood,3.5,//s3-media3.fl.yelpcdn.com/bphoto/totRBrr2nu-mcRkzFzldAA/90s.jpg,340 13th Avenue SW,Calgary,T2R 0W9,-114.068887,51.040675,cafe,137
+Bubblemania,3.5,//s3-media3.fl.yelpcdn.com/bphoto/siZqVqBnn3oB77SYlBFeHg/90s.jpg,16 Avenue NE,Calgary,T2E 1K3,-114.054478,51.066795,cafe,138
+Cadence Coffee,4,//s3-media2.fl.yelpcdn.com/bphoto/kpdBQEkyHX-xYX1y1UlVWg/90s.jpg,6407 Bowness Road Northwest,Calgary,T3B 0E6,-114.180402,51.085804,cafe,139
+Coffee Cats,4,//s3-media4.fl.yelpcdn.com/bphoto/4jWbdAavYysqnueW3kY1Lw/90s.jpg,2765 17 Avenue SW,Calgary,T3E 7E1,-114.126052,51.037798,cafe,140
+Cookies By George,4,//s3-media1.fl.yelpcdn.com/bphoto/eJSsrqNEBjY1vAwkk-FPgQ/90s.jpg,6455 Macleod Trail SW,Calgary,T2H 0K3,-114.071737,50.995944,cafe,141
+Cornerstone Music,4,//s3-media4.fl.yelpcdn.com/bphoto/5e5vlLKMwgDdezWMPF5iTQ/90s.jpg,14919 Deer Ridge Drive SE,Calgary,T2J 7C4,-114.027057,50.93047,cafe,142
+Cravings,4.5,//s3-media1.fl.yelpcdn.com/bphoto/D6He9bRVNN9H5NBU4H_Apg/90s.jpg,1441 29 St NW,Calgary,T2N 4J8,-114.130538,51.064978,cafe,143
+Cravings,3,//s3-media4.fl.yelpcdn.com/assets/srv0/yelp_styleguide/c73d296de521/assets/img/default_avatars/business_90_square.png,5111 47 Street NE,Calgary,T3J 0L7,-113.965987,51.09886,cafe,144
+Cucina Market Bistro,4,//s3-media4.fl.yelpcdn.com/bphoto/fIMIC2a3oEfK6QZMVILrhA/90s.jpg,515 8 Avenue SW,Calgary,T2P 1G1,-114.072411,51.045793,cafe,145
+DawsCo Coffee Service,5,//s3-media2.fl.yelpcdn.com/bphoto/Ia-Xeg1rRHPAgIlbsiPG8w/90s.jpg,4325 1 Street SE,Calgary,T2G 2L2,-114.06134,51.015675,cafe,146
+Deerhead,3.5,//s3-media1.fl.yelpcdn.com/bphoto/uce5gcPVH0JFK07lMdUehA/90s.jpg,3704 Edmonton Trail NE,Calgary,T2E 3P4,-114.05188,51.08533,cafe,147
+Delightful,3.5,//s3-media1.fl.yelpcdn.com/bphoto/n1w1zk4Ojx1XpiH5C_9LxQ/90s.jpg,1201 9th Avenue SE,Calgary,T2G 0S9,-114.036299,51.042003,cafe,148
+Dell,3.5,//s3-media1.fl.yelpcdn.com/bphoto/i23uP0fcD0p1mI75J8t_OQ/90s.jpg,7930 Bowness Road NW,Calgary,T3B 0H3,-114.201058,51.088981,cafe,149
+Deville,4,//s3-media4.fl.yelpcdn.com/bphoto/6ytHpRYIvQhs0XEtHsKwuw/90s.jpg,600 6 Avenue SW,Calgary,T2P 0S4,-114.074259,51.047798,cafe,150
+Di Mauro,4.5,//s3-media1.fl.yelpcdn.com/bphoto/v7pNwHX658CIynjXYqgX0Q/90s.jpg,999 8 Street SW,Calgary,T2R 1J5,-114.081464,51.044134,cafe,151
+Diner Deluxe,4,//s3-media3.fl.yelpcdn.com/bphoto/saCzt7dUstl5epFDGlQMbw/90s.jpg,804 Edmonton Trl NE,Calgary,T2E 3J6,-114.054297,51.058607,cafe,152
+Edelweiss Village,4.5,//s3-media3.fl.yelpcdn.com/bphoto/52BAJBf0ouE6DoPTCKOhNA/90s.jpg,1921 20 Avenue NW,Calgary,T2M 1H6,-114.10566,51.070513,cafe,153
+Enerje Bubble Tea,5,//s3-media1.fl.yelpcdn.com/bphoto/1CcWXe3r9x8A51Cc2HBkfA/90s.jpg,1075 Falconridge Drive NE,Calgary,T3J,-113.956857,51.099742,cafe,154
+Euphoria,4,//s3-media1.fl.yelpcdn.com/bphoto/yBeJokbF4bSsf01bmWnZnA/90s.jpg,5403 Crowchild Trail NW,Calgary,T3B 4Z1,-114.201486,51.114652,cafe,155
+Exit Calgary,4,//s3-media2.fl.yelpcdn.com/bphoto/ap97PbdnyEbpM_G0LVOYZQ/90s.jpg,880 16 Avenue SW,Calgary,T2R 1J9,-114.08114,51.038118,cafe,156
+Francesco,4,//s3-media2.fl.yelpcdn.com/bphoto/2qCccmxLeJ4sAU7YxDLl3Q/90s.jpg,3413 26 Avenue SW,Calgary,T3E 0N3,-114.13619,51.030003,cafe,157
+Fratello Analog,4.5,//s3-media1.fl.yelpcdn.com/bphoto/QqjrJ7vwZofrHOK0_kMJQw/90s.jpg,510 77th Avenue SE,Calgary,T2H 1C3,-114.05091,50.984418,cafe,158
+Fratello Coffee Roasters,4.5,//s3-media4.fl.yelpcdn.com/assets/srv0/yelp_styleguide/c73d296de521/assets/img/default_avatars/business_90_square.png,4021 9 Street SE,Calgary,T2G 3C7,-114.04067,51.018489,cafe,159
+Fresco,5,//s3-media3.fl.yelpcdn.com/bphoto/bnyVrqYi6FiiBs6L3d01nw/90s.jpg,500 Royal Oak Drive NW,Calgary,T3G 5J7,-114.23351,51.138718,cafe,160
+Fresh Blend Coffee & Sandwich Bar,3,//s3-media3.fl.yelpcdn.com/bphoto/K2ltaMINpDLIlzzArC1ROg/90s.jpg,4625 Varsity Drive NW,Calgary,T3A 0Z9,-114.153096,51.093023,cafe,161
+Global,3.5,//s3-media3.fl.yelpcdn.com/bphoto/FBhdCoNAJQiYvlvCkcIQLA/90s.jpg,220 4th Avenue SW,Calgary,T2P 0H5,-114.06646,51.049458,cafe,162
+Good Earth,3.5,//s3-media1.fl.yelpcdn.com/bphoto/cXdFq-1eF3q5wf6Nzx5TGA/90s.jpg,1502 11 Street SW,Calgary,T2R 1G9,-114.089077,51.038947,cafe,163
+Good Earth,3.5,//s3-media1.fl.yelpcdn.com/bphoto/F8B8qfQyT8oamKYa5hBerg/90s.jpg,1600 90th Avenue SW,Calgary,T2V 5A8,-114.097921,50.972338,cafe,164
+Velvet,4,//s3-media1.fl.yelpcdn.com/bphoto/I2px8XCKNOX_LL01YzjY1w/90s.jpg,502 25th Avenue NW,Calgary,T2M 2A8,-114.071931,51.075178,cafe,165
+Vie,3.5,//s3-media3.fl.yelpcdn.com/bphoto/X8u1Q9gtk5nfJDowKxrQFw/90s.jpg,2505 17 Avenue SW,Calgary,T3E 7V3,-114.11832,51.037804,cafe,166
+Visionary,5,//s3-media4.fl.yelpcdn.com/assets/srv0/yelp_styleguide/c73d296de521/assets/img/default_avatars/business_90_square.png,606 4 Street SW,Calgary,T2P 1T1,-114.071457,51.047419,cafe,167
+Waves Coffee House,3.5,//s3-media2.fl.yelpcdn.com/bphoto/GFz2qBgXDefxoslRveJR1g/90s.jpg,110-140 10 Avenue Southeast,Calgary,T2G 0J5,-114.061309,51.043288,cafe,168
+Good Earth,4.5,//s3-media2.fl.yelpcdn.com/bphoto/EExXsqrg2-sAvQ7PgvN9jw/90s.jpg,332 Aspen Glen Landing SW,Calgary,T3H,-114.208483,51.040171,cafe,169
+Good Earth,3,//s3-media2.fl.yelpcdn.com/bphoto/K-Tlc4G8CAwraFfCL0FH5w/90s.jpg,4825 Mount Royal Gate SW,Calgary,T3E 7G7,-114.132564,51.010079,cafe,170
+Good Earth,3.5,//s3-media4.fl.yelpcdn.com/assets/srv0/yelp_styleguide/c73d296de521/assets/img/default_avatars/business_90_square.png,7007 14 St SW,Calgary,T2V,-114.09556,50.991008,cafe,171
+Good Earth,4,//s3-media4.fl.yelpcdn.com/bphoto/rU2z4UkK_GtCKv8T5mZwew/90s.jpg,1213 4th Street SW,Calgary,T2R 1M1,-114.071594,51.04129,cafe,172
+Good Earth Coffeehouse Creekside,4,//s3-media4.fl.yelpcdn.com/bphoto/nsSUIAxFeJyJsBcM6jwJcw/90s.jpg,11988 Symons Valley Road NW,Calgary,T3P 0A3,-114.124171,51.160534,cafe,173
+Good Earth Coffeehouse Creekside,4,//s3-media4.fl.yelpcdn.com/bphoto/nsSUIAxFeJyJsBcM6jwJcw/90s.jpg,11988 Symons Valley Road NW,Calgary,T3P 0A3,-114.124171,51.160534,cafe,174
+Higher Ground,3.5,//s3-media4.fl.yelpcdn.com/bphoto/9a0LZ4XQ2kjuzeA15vrl-w/90s.jpg,1126 Kensington Road NW,Calgary,T2N 3P3,-114.0879,51.052548,cafe,175
+Hot Point Fusion,2.5,//s3-media2.fl.yelpcdn.com/bphoto/3yqespOYlC8XS56IDU-UjA/90s.jpg,4340 Macleod Trail SW,Calgary,T2G 0A4,-114.064618,51.015181,cafe,176
+iTea-A Place For Tea,4.5,//s3-media2.fl.yelpcdn.com/bphoto/oFugPwqWMYUKPB5oYAZGiA/90s.jpg,1177 11 Ave SW,Calgary,T2R 1K9,-114.08817,51.043042,cafe,177
+Kaffeeklatsch,4.5,//s3-media1.fl.yelpcdn.com/bphoto/FW9uO_jjyf3FOq5cDZEbgg/90s.jpg,223 12 Avenue SW,Calgary,T2R,-114.067161,51.041483,cafe,178
+Kahawa,4,//s3-media1.fl.yelpcdn.com/bphoto/ccLEzf4O0s0Z3qNfpsczRw/90s.jpg,101 6th Ave SW,Calgary,T2P 3P4,-114.063092,51.047413,cafe,179
+Kwanzaa Coffee House,4.5,//s3-media4.fl.yelpcdn.com/bphoto/yrkCzYw9GV7GfXHHLppA0A/90s.jpg,1824 Crowchild Trail Northwest,Calgary,T2M 3Y7,-114.117481,51.067718,cafe,180
+La Boulangerie,4.5,//s3-media2.fl.yelpcdn.com/bphoto/ZfRCw2I4Sp11ekvfOQv2HA/90s.jpg,2435 4th Street SW,Calgary,T2S 1X2,-114.071571,51.031183,cafe,181
+Lazy Monkey,3.5,//s3-media4.fl.yelpcdn.com/bphoto/3E1sHBpSBmX9F0Jd_IofpA/90s.jpg,3616 52nd Avenue NW,Calgary,T2L 1V9,-114.13943,51.100978,cafe,182
+London Fog,4.5,//s3-media1.fl.yelpcdn.com/bphoto/6LvGfUO3ZW-5NKcMhOzwCA/90s.jpg,8330 MacLeod Trl SE,Calgary,T2H 2V2,-114.071428,50.978734,cafe,183
+Lukes Drug Mart Bridgeland,4,//s3-media3.fl.yelpcdn.com/bphoto/pf2Z7kvbcU8buhWuoMhvdQ/90s.jpg,112 4th Street NE,Calgary,T2E 3R9,-114.051657,51.0531,cafe,184
+Luxor Emporium,3.5,//s3-media2.fl.yelpcdn.com/bphoto/h_C1jwI5w8WGDdbzceKFJg/90s.jpg,937 7 Avenue SW,Calgary,T2P 1A5,-114.082117,51.047027,cafe,185
+Monogram Coffee,5,//s3-media1.fl.yelpcdn.com/bphoto/zf_6Z7CBVL9J44hHTec2gw/90s.jpg,4814 16th Street SW,Calgary,T2T 4J5,-114.100452,51.011309,cafe,186
+Monogram Coffee,4.5,//s3-media4.fl.yelpcdn.com/assets/srv0/yelp_styleguide/c73d296de521/assets/img/default_avatars/business_90_square.png,420 - 2nd Street SW,Calgary,T2P 3K4,-114.067583,51.049239,cafe,187
+Monogram Coffee,4.5,//s3-media4.fl.yelpcdn.com/assets/srv0/yelp_styleguide/c73d296de521/assets/img/default_avatars/business_90_square.png,420 - 2nd Street SW,Calgary,T2P 3K4,-114.067583,51.049239,cafe,188
+Monogram Coffee,4.5,//s3-media4.fl.yelpcdn.com/assets/srv0/yelp_styleguide/c73d296de521/assets/img/default_avatars/business_90_square.png,420 - 2nd Street SW,Calgary,T2P 3K4,-114.067583,51.049239,cafe,189
+O Cup,4,//s3-media2.fl.yelpcdn.com/bphoto/4SDzJ8QUXkZOJlfn6PgAew/90s.jpg,110 2nd Avenue SE,Calgary,T2G 0B3,-114.06199,51.051228,cafe,190
+On The Go,3,//s3-media3.fl.yelpcdn.com/bphoto/AFUD9eXIWU2EitHtMar5mQ/90s.jpg,3280 Hospital Drive NW,Calgary,T2N 4Z6,-114.136655,51.066519,cafe,191
+Oolong Tea House,4,//s3-media4.fl.yelpcdn.com/bphoto/IRLyNbBJNqdazzv_b62d_Q/90s.jpg,110 10 Street NW,Calgary,T2N 1V3,-114.085846,51.05246,cafe,192
+Perfetto,3,//s3-media4.fl.yelpcdn.com/assets/srv0/yelp_styleguide/c73d296de521/assets/img/default_avatars/business_90_square.png,6449 Crowchild Trail SW,Calgary,T3E 6B2,-114.118054,50.99644,cafe,193
+Pfanntastic Pannenkoek Haus,4,//s3-media3.fl.yelpcdn.com/bphoto/PfSkbij1QROBgjbH4zu6_A/90s.jpg,2439 54 Avenue SW,Calgary,T3E 1M4,-114.117191,51.005003,cafe,194
+Phil & Sebastian Coffee Roasters,4,//s3-media2.fl.yelpcdn.com/bphoto/NGeD7t70q46hHQApxGEVKg/90s.jpg,2207 4 Street SW,Calgary,T2S 1W9,-114.071573,51.033228,cafe,195
+Phil & Sebastian Coffee Roasters,4,//s3-media2.fl.yelpcdn.com/bphoto/NGeD7t70q46hHQApxGEVKg/90s.jpg,2207 4 Street SW,Calgary,T2S 1W9,-114.071573,51.033228,cafe,196
+Pies Plus,3.5,//s3-media3.fl.yelpcdn.com/bphoto/yqLjOKYTHXEHkZTKh8Kd6A/90s.jpg,12445 Lake Fraser Drive SE,Calgary,T2J 7A4,-114.068069,50.942078,cafe,197
+Postino,4,//s3-media1.fl.yelpcdn.com/bphoto/7zgLwRyd_QQ3fTZwpt4pvQ/90s.jpg,2502 Capital Hill Crescent NW,Calgary,T2M 4C2,-114.116446,51.072636,cafe,198
+Quicklycanada Kensington,3.5,//s3-media2.fl.yelpcdn.com/bphoto/B0Rr0roWvBJNoKFf6s2hmQ/90s.jpg,314 - 10 Street NW,Calgary,T2N 1V8,-114.085897,51.05463,cafe,199
+Quicklycanada Kensington,3.5,//s3-media2.fl.yelpcdn.com/bphoto/B0Rr0roWvBJNoKFf6s2hmQ/90s.jpg,314 - 10 Street NW,Calgary,T2N 1V8,-114.085897,51.05463,cafe,200
+Red Bush Tea and Coffee Company,4.5,//s3-media4.fl.yelpcdn.com/bphoto/r7mD58nukh0wH1Y6k9SLAg/90s.jpg,225 10th Street NW,Calgary,T2N 1V5,-114.085954,51.053609,cafe,201
+Redheads Japa,4,//s3-media3.fl.yelpcdn.com/bphoto/E2oCSPH_8kaw34INu0HGUQ/90s.jpg,638 11th Avenue SW,Calgary,T2R 0E2,-114.075064,51.042731,cafe,202
+River,4,//s3-media4.fl.yelpcdn.com/bphoto/UyAEPi7b82UZ-gNiaPWTjw/90s.jpg,25 Prince's Island Park,Calgary,T2P 0R1,-114.0703,51.047711,cafe,203
+Roasterie,4,//s3-media1.fl.yelpcdn.com/bphoto/Jv6ISFCzR-vp3VmR1hMyBQ/90s.jpg,314 10 St NW,Calgary,T2N 1V8,-114.085897,51.05463,cafe,204
+Savour Coffee,4.5,//s3-media4.fl.yelpcdn.com/bphoto/l3SdBYZek0IkZIWXIbFcSg/90s.jpg,2500 4th Street SW,Calgary,T2S 1X6,-114.071497,51.030481,cafe,205
+Second Cup,3,//s3-media4.fl.yelpcdn.com/assets/srv0/yelp_styleguide/c73d296de521/assets/img/default_avatars/business_90_square.png,414 3rd Street SW,Calgary,T2P 3W6,-114.070077,51.048897,cafe,206
+Second Cup,3,//s3-media4.fl.yelpcdn.com/assets/srv0/yelp_styleguide/c73d296de521/assets/img/default_avatars/business_90_square.png,414 3rd Street SW,Calgary,T2P 3W6,-114.070077,51.048897,cafe,207
+Second Cup,5,//s3-media4.fl.yelpcdn.com/assets/srv0/yelp_styleguide/c73d296de521/assets/img/default_avatars/business_90_square.png,255 5 Avenue SW,Calgary,T2P 3G6,-114.066379,51.048407,cafe,208
+Second Cup,4.5,//s3-media4.fl.yelpcdn.com/bphoto/HcXGyK37atIiOm9lcECLWA/90s.jpg,607 8th Ave SW,Calgary,T2P 0A7,-114.074362,51.045843,cafe,209
+Second Cup,4.5,//s3-media4.fl.yelpcdn.com/bphoto/HcXGyK37atIiOm9lcECLWA/90s.jpg,607 8th Ave SW,Calgary,T2P 0A7,-114.074362,51.045843,cafe,210
+Second Cup,3.5,//s3-media4.fl.yelpcdn.com/bphoto/OrusM25dQYPEJabx_3fr5g/90s.jpg,2803 17 Avenue SW,Calgary,T3E 0A8,-114.12709,51.037793,cafe,211
+Second Cup,3.5,//s3-media4.fl.yelpcdn.com/bphoto/OrusM25dQYPEJabx_3fr5g/90s.jpg,2803 17 Avenue SW,Calgary,T3E 0A8,-114.12709,51.037793,cafe,212
+Second Cup Kensington,3,//s3-media3.fl.yelpcdn.com/bphoto/V2jxFyFNmfxVzzB2TQGRAQ/90s.jpg,338 10 Street NW,Calgary,T2N 1V8,-114.085897,51.054711,cafe,213
+Sola,4,//s3-media4.fl.yelpcdn.com/assets/srv0/yelp_styleguide/c73d296de521/assets/img/default_avatars/business_90_square.png,323 17 Avenue SW,Calgary,T2S 0A5,-114.06982,51.037803,cafe,214
+Sola,4,//s3-media4.fl.yelpcdn.com/assets/srv0/yelp_styleguide/c73d296de521/assets/img/default_avatars/business_90_square.png,323 17 Avenue SW,Calgary,T2S 0A5,-114.06982,51.037803,cafe,215
+Starbucks,4,//s3-media2.fl.yelpcdn.com/bphoto/h4W9jN3CoZ9x3ya5_6S-AQ/90s.jpg,315 8 Ave SW,Calgary,T2P 4K1,-114.068971,51.045683,cafe,216
+Starbucks,3,//s3-media2.fl.yelpcdn.com/bphoto/nLmdlx3SMeDgiz_zR9z67Q/90s.jpg,1110 1 Street SE,Calgary,T2G 1B1,-114.060778,51.042036,cafe,217
+Starbucks,4.5,//s3-media2.fl.yelpcdn.com/bphoto/R6ehzffrSxmolj7N-izH9Q/90s.jpg,400 3rd Avenue SW,Calgary,T2P 4H2,-114.070171,51.050451,cafe,218
+Starbucks,3.5,//s3-media2.fl.yelpcdn.com/bphoto/RR8kzzYvLev5segbEjuoRQ/90s.jpg,110 9th Avenue SE,Calgary,T2G 5A6,-114.062589,51.044628,cafe,219
+Starbucks,3,//s3-media2.fl.yelpcdn.com/bphoto/V0XvsrJcFFQXwlaEBmA4dA/90s.jpg,839 5 Ave SW,Calgary,T2P 3C8,-114.080562,51.048863,cafe,220
+Starbucks,4,//s3-media3.fl.yelpcdn.com/bphoto/9_a3WDjAC1HqHpR0KJ2QVw/90s.jpg,812A 49 Ave SW,Calgary,T2S 1G9,-114.081671,51.009619,cafe,221
+Starbucks,4,//s3-media3.fl.yelpcdn.com/bphoto/B2nqOyyBY4jl9rHpTByj2w/90s.jpg,450 1 St SW,Calgary,T2P 5H1,-114.065148,51.048886,cafe,222
+Starbucks,4,//s3-media3.fl.yelpcdn.com/bphoto/foUIpLP8TmMbxBSbwGz8-w/90s.jpg,723 17 Avenue SW,Calgary,T2S 0B6,-114.078651,51.037803,cafe,223
+Starbucks,4,//s3-media4.fl.yelpcdn.com/assets/srv0/yelp_styleguide/c73d296de521/assets/img/default_avatars/business_90_square.png,255 5 Avenue SW,Calgary,T2P 3G6,-114.066379,51.048407,cafe,224
+Starbucks,4.5,//s3-media4.fl.yelpcdn.com/bphoto/lZgUkOEMfEuYmYZKu3DwaQ/90s.jpg,100 Anderson Road SE,Calgary,T2J 3V1,-114.062314,50.949865,cafe,225
+Starbucks,4,//s3-media4.fl.yelpcdn.com/bphoto/O4cPVsb532scEm3cZm2Eyw/90s.jpg,3531 Garrison Gate SW,Calgary,T2T 6E4,-114.1144,51.022656,cafe,226
+Starbucks,4,//s3-media4.fl.yelpcdn.com/bphoto/X_qTSvrlLmMylHET5c-RNw/90s.jpg,7616 Elbow Drive SW,Calgary,T2V 1K2,-114.083097,50.98524,cafe,227
+Sunterra Market,3.5,//s3-media1.fl.yelpcdn.com/bphoto/OiuHJLRFvZLSI8lCwma0lA/90s.jpg,1851 Sirocco Drive SW,Calgary,T3H 4R5,-114.168997,51.036823,cafe,228
+Tastebuds & Co,4,//s3-media4.fl.yelpcdn.com/bphoto/O3XdoZNFn_ZePeh0CcMDmw/90s.jpg,846 5th Avenue SW,Calgary,T2P,-114.079743,51.04889,cafe,229
+Tastebuds & Co,4,//s3-media4.fl.yelpcdn.com/bphoto/O3XdoZNFn_ZePeh0CcMDmw/90s.jpg,846 5th Avenue SW,Calgary,T2P,-114.079743,51.04889,cafe,230
+The Bullet Cappuccino Bar,4,//s3-media4.fl.yelpcdn.com/bphoto/_-aXyqPo7wIwxHi4WmOTpw/90s.jpg,728 Northmount Dr NW,Calgary,T2K 3K2,-114.092781,51.082953,cafe,231
+The Coffee Couch,4,//s3-media1.fl.yelpcdn.com/bphoto/j4s-55IKAWxjRVhze3C0nw/90s.jpg,128 28 Street SE,Calgary,T2A 6J9,-113.993217,51.051191,cafe,232
+The Crepe,4,//s3-media2.fl.yelpcdn.com/bphoto/0HywyOG2FSeUBsVu0_VcxQ/90s.jpg,999-36 St NE,Calgary,T2A 7T1,-113.981964,51.061381,cafe,233
+The Destination,5,//s3-media4.fl.yelpcdn.com/assets/srv0/yelp_styleguide/c73d296de521/assets/img/default_avatars/business_90_square.png,12th Avenue SW,Calgary,T2R 0H5,-114.07518,51.04179,cafe,234
+The Gallery,4.5,//s3-media2.fl.yelpcdn.com/bphoto/udCtSUwMZbkLtqCtveiYDA/90s.jpg,608 7 St SW,Calgary,T2P 1Z2,-114.078657,51.047497,cafe,235
+The Lazy Loaf & Kettle,3.5,//s3-media1.fl.yelpcdn.com/bphoto/4cGsteu8qmtUwJXPQG4Gsg/90s.jpg,8 Parkdale Crescent NW,Calgary,T2N 3T8,-114.135861,51.058127,cafe,236
+The ROCK,5,//s3-media3.fl.yelpcdn.com/bphoto/UcRp7qAhP-pmZzuA6YlHig/90s.jpg,1446 17 Avenue SW,Calgary,T2T 0C8,-114.0951,51.037846,cafe,237
+The Tea Factory,4.5,//s3-media1.fl.yelpcdn.com/bphoto/rm4FhU-hVL_4tLy3uKZC4w/90s.jpg,1820 4th Street SW,Calgary,T2S 0C9,-114.071501,51.036742,cafe,238
+The Well,4.5,//s3-media1.fl.yelpcdn.com/bphoto/aehLa7R8vARaN_uPKB8BtQ/90s.jpg,245 6 Ave SE,Calgary,T2G 0G4,-114.058888,51.047298,cafe,239
+Tim Hortons,5,//s3-media1.fl.yelpcdn.com/bphoto/56o78M6Vqc1Oh-1t3BBx8Q/90s.jpg,614 6 Avenue SW,Calgary,T2P 0S4,-114.07466,51.047817,cafe,240
+Tim Hortons,3,//s3-media2.fl.yelpcdn.com/bphoto/c4c3g0fY6R4gT0ZojxB7zQ/90s.jpg,723 46 Avenue SE,Calgary,T2G 2A4,-114.046829,51.011203,cafe,241
+Tim Hortons,3,//s3-media2.fl.yelpcdn.com/bphoto/c4c3g0fY6R4gT0ZojxB7zQ/90s.jpg,723 46 Avenue SE,Calgary,T2G 2A4,-114.046829,51.011203,cafe,242
+Tim Hortons,3.5,//s3-media2.fl.yelpcdn.com/bphoto/FhTpcN9FkRQip-KZK-q0fw/90s.jpg,665 8 Street SW,Calgary,T2P 3E5,-114.081204,51.047254,cafe,243
+Tim Hortons,4,//s3-media2.fl.yelpcdn.com/bphoto/X2KBIOGBoCXYVCShea0bCw/90s.jpg,5 Heritage Gate SE,Calgary,T2H 3A7,-114.044234,50.987331,cafe,244
+Treehouse Indoor Playground and,4,//s3-media3.fl.yelpcdn.com/bphoto/5_2im12rQax6B9npVGZueg/90s.jpg,3337 34 Avenue NE,Calgary,T1Y,-113.987938,51.083613,cafe,245
+Twisted,3.5,//s3-media4.fl.yelpcdn.com/bphoto/VeC21iuOTCUYokQ5LYPx0w/90s.jpg,1235 26 Avenue SE,Calgary,T2G 1R7,-114.034441,51.030563,cafe,246
+Waves Coffee House,4,//s3-media3.fl.yelpcdn.com/bphoto/UCE5BgIAzDhQ2O2pFFoa6A/90s.jpg,#205 - 400 5th Ave SW,Calgary,T2P 4L2,-114.070709,51.048608,cafe,247
+Waves Coffee House,5,//s3-media3.fl.yelpcdn.com/bphoto/zT3aYuHcnP0hlRqRVfsHHQ/90s.jpg,2685 36 Street NE,Calgary,T1Y 5S3,-113.982003,51.07708,cafe,248
+Waves Coffee House,5,//s3-media3.fl.yelpcdn.com/bphoto/zT3aYuHcnP0hlRqRVfsHHQ/90s.jpg,2685 36 Street NE,Calgary,T1Y 5S3,-113.982003,51.07708,cafe,249
+Waves Coffee House,4,//s3-media4.fl.yelpcdn.com/bphoto/pAEnFtbcTqIfYMWftYdOZg/90s.jpg,602 17 Avenue SW,Calgary,T2S 0B4,-114.07467,51.037858,cafe,250
+Wavescoffee House,3.5,//s3-media1.fl.yelpcdn.com/bphoto/QZTQbFKqPwvRHWlQ2zJrhQ/90s.jpg,731 8th Street SW,Calgary,T2P 3E5,-114.081247,51.04672,cafe,251
+Weeds,3,//s3-media4.fl.yelpcdn.com/bphoto/n_Z0nwDMX1bPZlqSqIsN7g/90s.jpg,1903 20 Ave NW,Calgary,T2M 1H6,-114.10486,51.070523,cafe,252
+You & I Coffee,4,//s3-media4.fl.yelpcdn.com/assets/srv0/yelp_styleguide/c73d296de521/assets/img/default_avatars/business_90_square.png,700 4 Ave SW,Calgary,T2P 3J4,-114.076831,51.049768,cafe,253
+Yummy,4.5,//s3-media3.fl.yelpcdn.com/bphoto/DEXJf0DulNEtw4StN8hQ5g/90s.jpg,27 Avenue NE,Calgary,T2E 7P7,-114.025493,51.077897,cafe,254
+1600 World Bier Haus,3.5,//s3-media4.fl.yelpcdn.com/bphoto/HUi3S7Ij19fYpQQXd_sXMg/90s.jpg,1600 90 Avenue SW,Calgary,T2V 5A8,-114.097921,50.972338,fastfood,255
+A & W,4,//s3-media4.fl.yelpcdn.com/assets/srv0/yelp_styleguide/c73d296de521/assets/img/default_avatars/business_90_square.png,2500 University Drive Northwest,Calgary,T2N 1N4,-114.12851,51.075012,fastfood,256
+Cafe Medina,1,//s3-media1.fl.yelpcdn.com/bphoto/Nck_BXVMu5US2BWCx75D-w/90s.jpg,1004 1st Street SW,Calgary,T2R 1K4,-114.065607,51.043228,fastfood,257
+R Bar & Grill,1,//s3-media4.fl.yelpcdn.com/bphoto/F-y4Y7J8cbdXTS8UrP2GBg/90s.jpg,4216 12 Street NE,Calgary,T2E 6K9,-114.032515,51.090177,fastfood,258
+Shotz Bar & Grill,1,//s3-media3.fl.yelpcdn.com/bphoto/XbY2Nbs2bTUhYYl_QK93kQ/90s.jpg,3508 32nd Avenue NE,Calgary,T1Y 6J2,-113.983909,51.081578,fastfood,259
+Test Kitchen,1,//s3-media4.fl.yelpcdn.com/bphoto/rYUZQUNWBEERGJl0ZCZoxA/90s.jpg,501 2 Avenue SW,Calgary,T2P 0R5,-114.071605,51.051466,fastfood,260
+Bistro at Art Central,1.5,//s3-media4.fl.yelpcdn.com/assets/srv0/yelp_styleguide/c73d296de521/assets/img/default_avatars/business_90_square.png,100 7th Avenue SW,Calgary,T2P,-114.063111,51.046491,fastfood,261
+Melrose Cafe & Bar,2,//s3-media1.fl.yelpcdn.com/bphoto/J3kehnaz5ImY0ROnmsrjTg/90s.jpg,421 12th Ave SE,Calgary,T2G 1A5,-114.054671,51.041123,fastfood,262
+The Pint,2,//s3-media2.fl.yelpcdn.com/bphoto/JdIvQOrWP_AlJNU2C5vJgA/90s.jpg,1428 17 Avenue SW,Calgary,T2T 3S9,-114.09446,51.037848,fastfood,263
+Earls Kitchen + Bar,2.5,//s3-media1.fl.yelpcdn.com/bphoto/V4_lKCP5DIH9Y2mZJww/90s.jpg,5005 Dalhousie Drive NW,Calgary,T3A 5R8,-114.159283,51.106634,fastfood,264
+Swiss Chalet,2.5,//s3-media4.fl.yelpcdn.com/bphoto/WytdG5PBlCyq0GGmEiCVCw/90s.jpg,8900 MacLeod Trail SE,Calgary,T2H 2N1,-114.071424,50.973748,fastfood,265
+Swiss Chalet,2.5,//s3-media4.fl.yelpcdn.com/bphoto/Mk45b7q3PE67l5NFNZJO4A/90s.jpg,4916 130 Avenue SE,Calgary,T2Z 0G4,-113.963503,50.932056,fastfood,266
+Toad N Turtle Pubhouse & Grill,2.5,//s3-media2.fl.yelpcdn.com/bphoto/GiDQGQKehOl70WqhfwtHtQ/90s.jpg,5155 130th Avenue SE,Calgary,T2Z,-113.960495,50.931573,fastfood,267
+Vagabond Brewery and Restaurant,2.5,//s3-media1.fl.yelpcdn.com/bphoto/Yta3AO1y0uOp7H0m-bAWWg/90s.jpg,1129 Olym Way SE,Calgary,T2G 0L4,-114.053464,51.041862,fastfood,268
+Velvet At the Grand,2.5,//s3-media4.fl.yelpcdn.com/assets/srv0/yelp_styleguide/c73d296de521/assets/img/default_avatars/business_90_square.png,608 1 St SW,Calgary,T2P 1M6,-114.065299,51.047344,fastfood,269
+Brewsters Brewing Company & Restaurant,3,//s3-media1.fl.yelpcdn.com/bphoto/_OrykRI4DOMgB0s0b4t4Hw/90s.jpg,53 Street SE,Calgary,T2C 4V1,-113.95659,51.00305,fastfood,270
+Brewsters Brewing Company & Restaurant,3,//s3-media1.fl.yelpcdn.com/bphoto/zXaab3XZptZZ_t87gUwxwA/90s.jpg,100 11 Mckenzie Towne Boulevard SE,Calgary,T2Z 0S8,-113.962992,50.915884,fastfood,271
+Brewsters Brewing Company and Restaurant,3,//s3-media3.fl.yelpcdn.com/bphoto/ip2C8Gx-0fUBe6GNNUJ1Rg/90s.jpg,755 Lake Bonavista Drive SW,Calgary,T2J 0N3,-114.045373,50.942394,fastfood,272
+Charbar,3,//s3-media3.fl.yelpcdn.com/bphoto/AGvByOwLgAANARCKuJ7K_g/90s.jpg,618 Confluence Way SE,Calgary,T2G 0G1,-114.050238,51.047777,fastfood,273
+D Executive Restaurant and Catering Ltd,3,//s3-media2.fl.yelpcdn.com/bphoto/TYFMBf8vo2EP1W2WVDGdZA/90s.jpg,4412 Manilla Road SE,Calgary,T2G 4B7,-114.052451,51.013698,fastfood,274
+Earls Kitchen + Bar,3,//s3-media3.fl.yelpcdn.com/bphoto/IHcQ8FecNPPHxUWkS3hNSg/90s.jpg,10640 McLeod Trail SE,Calgary,T2J 0P8,-114.071488,50.958129,fastfood,275
+Earls Kitchen + Bar,3,//s3-media1.fl.yelpcdn.com/bphoto/4Oc4wh9buoOunRzurAPe6w/90s.jpg,2401 4th Street,Calgary,T2S 1X5,-114.071574,51.031251,fastfood,276
+EggsOasis,3,//s3-media1.fl.yelpcdn.com/bphoto/BZaBRRy-Oh2DMnMRSDyUHw/90s.jpg,8650 112 Avenue NW,Calgary,T3R,-114.209747,51.151966,fastfood,277
+Fryday,3,//s3-media4.fl.yelpcdn.com/bphoto/a42U891ZNXbVZd5cJ926Mg/90s.jpg,4105 4 Street NW,Calgary,T2K 1A2,-114.071654,51.08795,fastfood,278
+JOEY Crowfoot,3,//s3-media1.fl.yelpcdn.com/bphoto/SYe3fYteiYFqL-vPxhEoqg/90s.jpg,50 Crowfoot Way NW,Calgary,T3G 4C8,-114.201819,51.124548,fastfood,279
+Midtown Kitchen & Bar,3,//s3-media3.fl.yelpcdn.com/bphoto/NnT-mWATjQekE8C8HPiXqg/90s.jpg,302 10th Street NW,Calgary,T2N 1V8,-114.085885,51.054169,fastfood,280
+National,3,//s3-media3.fl.yelpcdn.com/bphoto/-l6ueSypdfVOuIKOl0H-Nw/90s.jpg,550 17th Avenue Southwest,Calgary,T2S 0B2,-114.072958,51.037853,fastfood,281
+National Westhills,3,//s3-media4.fl.yelpcdn.com/bphoto/el_RTq0mHIVyj_SzvvZjjg/90s.jpg,180 Stewart Green SW,Calgary,T3H 3C8,-114.168343,51.015899,fastfood,282
+Schanks Sports Grill,3,//s3-media2.fl.yelpcdn.com/bphoto/mWG8cD2N6r_SlMaUk5ye5g/90s.jpg,9627 MacLeod Trail SW,Calgary,T2J 0P6,-114.071774,50.969481,fastfood,283
+Shark Club Calgary Deerfoot Meadows,3,//s3-media2.fl.yelpcdn.com/bphoto/xvy24EHLEahxPPR-8sXd2A/90s.jpg,7995 11th Street SE,Calgary,T2H 0B8,-114.042729,50.98373,fastfood,284
+Shark Club Calgary North,3,//s3-media1.fl.yelpcdn.com/bphoto/dQmq-DMx_Q5phOJ85xSgAQ/90s.jpg,2493 27 Avenue NE,Calgary,T2E 8M1,-114.002584,51.076785,fastfood,285
+State & Main,3,//s3-media2.fl.yelpcdn.com/bphoto/9s8aXT_4xOvwnSIz5g8tDA/90s.jpg,601 8 Avenue SW,Calgary,T2P,-114.073975,51.045838,fastfood,286
+The Big Cheese Poutinerie,3,//s3-media2.fl.yelpcdn.com/bphoto/E6e2EGkeXMrwj3adPtFaMw/90s.jpg,738 17th Avenue SW,Calgary,T2S 0B7,-114.07912,51.037858,fastfood,287
+The Canadian Brewhouse,3,//s3-media4.fl.yelpcdn.com/bphoto/pRI_Pzl1deIRBbLwimMQRQ/90s.jpg,9650 Harvest Hills Boulevard NE,Calgary,T3K 0B3,-114.069952,51.141579,fastfood,288
+The Kilt & Caber Ale House,3,//s3-media4.fl.yelpcdn.com/bphoto/MTnjZbnrKR9gQI4Eltwt2A/90s.jpg,53 High Street SE,Calgary,T2Z 3T7,-113.960744,50.915208,fastfood,289
+The Last Defense Lounge,3,//s3-media2.fl.yelpcdn.com/bphoto/DQfG655dgjXFdv9-Zq-yRQ/90s.jpg,2500 University Drive NW,Calgary,T2N 1N4,-114.12851,51.075012,fastfood,290
+The Park Kitchen & Bar,3,//s3-media4.fl.yelpcdn.com/bphoto/zOXDyfFA4fS1ErGjrG1cTQ/90s.jpg,163 Quarry Park Blvd SE,Calgary,T2C 5E1,-114.00944,50.963423,fastfood,291
+Boxwood Cafe,3.5,//s3-media3.fl.yelpcdn.com/bphoto/totRBrr2nu-mcRkzFzldAA/90s.jpg,340 13th Avenue SW,Calgary,T2R 0W9,-114.068887,51.040675,fastfood,292
+Browns Socialhouse,3.5,//s3-media4.fl.yelpcdn.com/bphoto/3wdSYp2_FGvUmPLBV7NZew/90s.jpg,880 16th Avenue SW,Calgary,T2R 1J9,-114.08114,51.038118,fastfood,293
+Cactus Club Cafe,3.5,//s3-media3.fl.yelpcdn.com/bphoto/CAtSdJKuMuIUP-JN51PA2w/90s.jpg,178-317 7th AVE SW,Calgary,T2P 2Y9,-114.056551,51.058834,fastfood,294
+Casino Grasslands,3.5,//s3-media4.fl.yelpcdn.com/assets/srv0/yelp_styleguide/c73d296de521/assets/img/default_avatars/business_90_square.png,421 12 Ave SE,Calgary,T2G,-114.054671,51.041123,fastfood,295
+Compass Restaurant,3.5,//s3-media1.fl.yelpcdn.com/bphoto/BEy-7z86lBHfiDYqsNHjsg/90s.jpg,2001 Airport Road NE,Calgary,T2E 6Z8,-114.008872,51.130835,fastfood,296
+Earls Kitchen + Bar,3.5,//s3-media1.fl.yelpcdn.com/bphoto/yfllcJuQPl5IoHSiooFg1A/90s.jpg,140 Stewart Green SW,Calgary,T3H 3C8,-114.168078,51.016863,fastfood,297
+Earls Kitchen + Bar,3.5,//s3-media2.fl.yelpcdn.com/bphoto/ELxktPFYHyY9s_jsUqcx4w/90s.jpg,3030 23 Street NE,Calgary,T2E 8R7,-114.005057,51.080444,fastfood,298
+Earls Kitchen + Bar,3.5,//s3-media1.fl.yelpcdn.com/bphoto/rSyyJw4wCIiJuVM6CFF1Ag/90s.jpg,1110 16th Avenue NW,Calgary,T2M 0K8,-114.097866,51.061578,fastfood,299
+Earls Kitchen + Bar,3.5,//s3-media1.fl.yelpcdn.com/bphoto/xsO41Bn8LQUD_gFp2S0G6Q/90s.jpg,5155 130th Avenue SE,Calgary,T2Z,-113.960495,50.931573,fastfood,300
+Fergus & Bix,3.5,//s3-media1.fl.yelpcdn.com/bphoto/oBzJoABzE2v7UPfc3FUsOQ/90s.jpg,873 85th Street SW,Calgary,T3H 4C8,-114.211125,51.060651,fastfood,301
+Flames Central,3.5,//s3-media4.fl.yelpcdn.com/bphoto/LSvpVRcyp8OQu_xqUadmgw/90s.jpg,219 8th Ave SW,Calgary,T2P 1B7,-114.06621,51.059743,fastfood,302
+Global,3.5,//s3-media3.fl.yelpcdn.com/bphoto/FBhdCoNAJQiYvlvCkcIQLA/90s.jpg,220 4th Avenue SW,Calgary,T2P 0H5,-114.06646,51.049458,fastfood,303
+Hose & Hound Neighborhood Pub,3.5,//s3-media3.fl.yelpcdn.com/bphoto/tos5rcVaDFkvsDwkMqJkgQ/90s.jpg,1030 9 Avenue SE,Calgary,T2G 0S7,-114.040148,51.040817,fastfood,304
+JOEY Barlow,3.5,//s3-media2.fl.yelpcdn.com/bphoto/3LQzBbv06wUoh5BAWKkfTQ/90s.jpg,3026 23rd Street NE,Calgary,T2E 8R7,-114.005027,51.08008,fastfood,305
+JOEY Chinook,3.5,//s3-media2.fl.yelpcdn.com/bphoto/_Cux8Lm0O0wpygpWj4B4iw/90s.jpg,6455 MacLeod Trail SW,Calgary,T2H 0K8,-114.071737,50.995944,fastfood,306
+LeVilla Restaurant,3.5,//s3-media3.fl.yelpcdn.com/bphoto/bAmY14PzTkPKUnEyUR-uaA/90s.jpg,1851 Sirocco Drive SW,Calgary,T3H 4R5,-114.168997,51.036823,fastfood,307
+MARKET Calgary,3.5,//s3-media4.fl.yelpcdn.com/bphoto/prAkptDVtsUhVhvAdH46cA/90s.jpg,718 17th Avenue,Calgary,T2S 0B7,-114.077871,51.037858,fastfood,308
+Milestones Restaurant,3.5,//s3-media4.fl.yelpcdn.com/bphoto/nPHpT1wVY0oZnN3kIqzIwg/90s.jpg,107 8 Ave SE,Calgary,T2G 0K4,-114.062729,51.045478,fastfood,309
+Milestones Restaurant,3.5,//s3-media2.fl.yelpcdn.com/bphoto/ZZrdG4Jr64JNGI4LFuFe9g/90s.jpg,3625 Shaganappi Trl NW,Calgary,T3A 5P9,-114.153013,51.085507,fastfood,310
+Phoenix Grill,3.5,//s3-media3.fl.yelpcdn.com/bphoto/YeazU9YFOX9P2k2njic0PQ/90s.jpg,5620 Signal Hill Centre SW,Calgary,T3H 3P8,-114.168949,51.018926,fastfood,311
+Phoenix Grill,3.5,//s3-media3.fl.yelpcdn.com/bphoto/DQAGAGSn14zQ7ZznwUxkyg/90s.jpg,16061 MacLeod Trail SE,Calgary,T2Y 3S5,-114.064201,50.908059,fastfood,312
+Redwater Rustic Grille,3.5,//s3-media4.fl.yelpcdn.com/bphoto/oTn9qLGqju672eSV72Pm7g/90s.jpg,250 6 Ave SW,Calgary,T2E 4Y7,-114.0672,51.047608,fastfood,313
+Roosevelt Food and Drink,3.5,//s3-media4.fl.yelpcdn.com/bphoto/1XHZe05ndXufz2HWtwyAbg/90s.jpg,933 17th Avenue SW,Calgary,T2T 5R6,-114.083901,51.037803,fastfood,314
+Sky 360,3.5,//s3-media4.fl.yelpcdn.com/bphoto/CdrV69lSmxzCJ8kR2hSxaw/90s.jpg,101 9th Ave SW,Calgary,T2P 1J9,-114.063111,51.044583,fastfood,315
+Starlite Restaurant & Bar,3.5,//s3-media2.fl.yelpcdn.com/bphoto/gw6RkgZ_lPx7i60NVpm3Wg/90s.jpg,369 Heritage Dr SE,Calgary,T2H 1M8,-114.061189,50.979558,fastfood,316
+The Living Room Restaurant,3.5,//s3-media2.fl.yelpcdn.com/bphoto/A9eDyDsqTSLzvYzHy8H7lg/90s.jpg,514 17 Ave SW,Calgary,T2S 0B1,-114.07246,51.037848,fastfood,317
+The Main Dish,3.5,//s3-media4.fl.yelpcdn.com/bphoto/XpraRKlwuiIN76XJMEY0Vg/90s.jpg,903 General Avenue NE,Calgary,T2E 9E1,-114.041544,51.053043,fastfood,318
+The Nash,3.5,//s3-media1.fl.yelpcdn.com/bphoto/gQH_w8SILoRQHRDbVOSXOQ/90s.jpg,925 11th Street SE,Calgary,T2G 0S8,-114.036795,51.04189,fastfood,319
+The Trop,3.5,//s3-media1.fl.yelpcdn.com/bphoto/CI88hIFV8rZf0FzNaSjKaQ/90s.jpg,34 Avenue SW,Calgary,T2T 2B1,-114.095288,51.023137,fastfood,320
+Vin Room West,3.5,//s3-media1.fl.yelpcdn.com/bphoto/8kZr-nYm-zvhh7mrn0lESg/90s.jpg,8561 8A Avenue SW,Calgary,T3H 4C7,-114.210274,51.061523,fastfood,321
+White Spot Restaurants,3.5,//s3-media3.fl.yelpcdn.com/bphoto/EToeyY9nipEicVBDQgZOVg/90s.jpg,10440 Macleod Trail SE,Calgary,T2J 0P8,-114.071492,50.959271,fastfood,322
+Bazille-Nordstrom,4,//s3-media4.fl.yelpcdn.com/bphoto/EHK5Uxup7NfdQVnQh1v8Ag/90s.jpg,6455 Macleod Trail SW,Calgary,T2H 0K8,-114.071737,50.995944,fastfood,323
+Bistro Alma,4,//s3-media3.fl.yelpcdn.com/bphoto/mCR2Ft1Io_FAsL-uH_nRTQ/90s.jpg,169 University Gate NW,Calgary,T2N 4V8,-114.132815,51.076173,fastfood,324
+Black Cat Bar & Grill,4,//s3-media3.fl.yelpcdn.com/bphoto/-K9PEJd6bhgLYDPouRNYPQ/90s.jpg,635 6 Avenue SW,Calgary,T2P 0T5,-114.075572,51.047793,fastfood,325
+Botanica,4,//s3-media2.fl.yelpcdn.com/bphoto/Mg2OQDNsoKX5lYF3JDLqYA/90s.jpg,2120 16 Avenue NE,Calgary,T2E 1L4,-114.01051,51.067267,fastfood,326
+Bow Valley Ranche Restaurant,4,//s3-media4.fl.yelpcdn.com/bphoto/kkeFuuhWNprArelEOd3Jqw/90s.jpg,15979 Bow Bottom Trail SE,Calgary,T2J 7A7,-114.015135,50.90361,fastfood,327
+Brasserie Kensington,4,//s3-media2.fl.yelpcdn.com/bphoto/hau-5XE1br5rE8spjk8Plg/90s.jpg,1131 Kensington Road NW,Calgary,T2N 3P4,-114.08778,51.052494,fastfood,328
+Cactus Club Cafe,4,//s3-media2.fl.yelpcdn.com/bphoto/Bq2UmuQuFU-a6b22INfouQ/90s.jpg,7010 Macleod Trail SE,Calgary,T2H 0L3,-114.071407,50.98991,fastfood,329
+Cedars Deli,4,//s3-media2.fl.yelpcdn.com/bphoto/U0YXZ_iQLs2s0SvfSHF8yg/90s.jpg,16 Panatella Blvd,Calgary,T3K 6C2,-114.071738,51.164746,fastfood,330
+Cilantro,4,//s3-media3.fl.yelpcdn.com/bphoto/5_EDt1NYmn3nYk229GsduA/90s.jpg,338 17 Avenue SW,Calgary,T2S 0A8,-114.06917,51.037856,fastfood,331
+Green Bean Restaurant & Catering,4,//s3-media3.fl.yelpcdn.com/bphoto/ijyRvaceOYL4xbk8AhwxoQ/90s.jpg,550 6th Avenue SW,Calgary,T2P 0S2,-114.073479,51.047768,fastfood,332
+HOME Tasting Room - CLOSED,4,//s3-media4.fl.yelpcdn.com/bphoto/mUEumfcRyDyhImJPI6MLNg/90s.jpg,110 8th Avenue Southwest,Calgary,T2P 1B3,-114.063709,51.045558,fastfood,333
+Jimstar Bar and Grill,4,//s3-media4.fl.yelpcdn.com/assets/srv0/yelp_styleguide/c73d296de521/assets/img/default_avatars/business_90_square.png,4068 Ogden Road SE,Calgary,T2G 4P8,-114.023251,51.018628,fastfood,334
+Last Best Brewing & Distilling,4,//s3-media2.fl.yelpcdn.com/bphoto/avmiABB4fD6oHIvxDyqdXg/90s.jpg,607 11 Avenue SW,Calgary,T2R 0E1,-114.074383,51.04266,fastfood,335
+Laurier Lounge,4,//s3-media1.fl.yelpcdn.com/bphoto/CQicXwZjpjTlRD5DFQqcfw/90s.jpg,1111 7 Street SW,Calgary,T2R 1A1,-114.079094,51.042174,fastfood,336
+LOCAL on 8th Ave,4,//s3-media1.fl.yelpcdn.com/bphoto/kx-t0iA1AwwvehbkQWWZ6w/90s.jpg,310 8th Avenue SW,Calgary,T2P 1C1,-114.080877,51.050499,fastfood,337
+Lot 102,4,//s3-media1.fl.yelpcdn.com/bphoto/wbdotvPlcn-NYvTFPg30lw/90s.jpg,102 10 Street NW,Calgary,T2N 1V3,-114.085837,51.052104,fastfood,338
+Lynnwood Station,4,//s3-media4.fl.yelpcdn.com/bphoto/2YhXOrhjQR-ICJ7nIHZFpQ/90s.jpg,7025 Ogden Road SE,Calgary,T2C 1B5,-114.001261,50.990018,fastfood,339
+One18 Empire,4,//s3-media2.fl.yelpcdn.com/bphoto/RvSHysXPbS576DDeG80LjA/90s.jpg,820 Centre Street S,Calgary,T2G 5J2,-114.062497,51.059453,fastfood,340
+Public Beer Market,4,//s3-media3.fl.yelpcdn.com/bphoto/oOA0XeUuIFILMk-QhXCQIQ/90s.jpg,3181 32nd Street NE,Calgary,T1Y 6Z7,-113.988664,51.080381,fastfood,341
+Redwater Rustic Grille,4,//s3-media1.fl.yelpcdn.com/bphoto/9i_G9z2JbwyfBKBEmE5zmw/90s.jpg,9223 MacLeod Trail SW,Calgary,T2J 0P6,-114.071764,50.973131,fastfood,342
+Safin Donair & Grill,4,//s3-media4.fl.yelpcdn.com/assets/srv0/yelp_styleguide/c73d296de521/assets/img/default_avatars/business_90_square.png,2219 Centre Street NW,Calgary,T2E 2T4,-114.062563,51.071748,fastfood,343
+Stage West Theatre Restaurant,4,//s3-media2.fl.yelpcdn.com/bphoto/0Q0241Ph9FAZBnLWwtYjww/90s.jpg,727 42 Ave SE,Calgary,T2G 1Y8,-113.972414,51.046702,fastfood,344
+State & Main,4,//s3-media4.fl.yelpcdn.com/bphoto/3X7bN9NkGKm_Q46VeHcQtg/90s.jpg,6455 Macleod Trail SW,Calgary,T2H 0K8,-114.071737,50.995944,fastfood,345
+The Belvedere,4,//s3-media4.fl.yelpcdn.com/bphoto/of6HTexjR-y-nj5ce_8q0g/90s.jpg,107 8th Avenue SW,Calgary,T2P 1B4,-114.06328,51.045493,fastfood,346
+The Lake House,4,//s3-media4.fl.yelpcdn.com/bphoto/Oes4SVQ5CREP4lS6uTOi6w/90s.jpg,747 Lake Bonavista Drive SE,Calgary,T2S 0A8,-114.048464,50.944658,fastfood,347
+The Place Steakhouse,4,//s3-media3.fl.yelpcdn.com/bphoto/rcIawQ38bw5O76Y6KK0ddA/90s.jpg,6308 Bowness Road NW,Calgary,T3B 0E5,-114.178738,51.085117,fastfood,348
+Township Bar & Grill,4,//s3-media4.fl.yelpcdn.com/bphoto/GjDqZaEW4DvYiOMj-kbZAg/90s.jpg,250 6 Avenue SW,Calgary,T2P 3H7,-114.0672,51.047608,fastfood,349
+Yellow Door Bistro,4,//s3-media1.fl.yelpcdn.com/bphoto/Qaq16sn1JjylRz48_mp8bQ/90s.jpg,119 12th Avenue SW,Calgary,T2R 0V1,-114.064361,51.041413,fastfood,350
+Cactus Club Cafe,4.5,//s3-media1.fl.yelpcdn.com/bphoto/MNcT8SBJSLb-HOie0kK0Ow/90s.jpg,2612 39 Ave NE,Calgary,T1Y 7J9,-114.000987,51.088695,fastfood,351
+Container Bar,4.5,//s3-media3.fl.yelpcdn.com/bphoto/OIZEpxQJrzNIurxByzW6Qg/90s.jpg,1131 Kensington Road,Calgary,T2N 1V5,-114.08778,51.052494,fastfood,352
+Escoba Bistro & Wine Bar,4.5,//s3-media3.fl.yelpcdn.com/bphoto/uGtjhrGxN2LX6HwTyMvZ9w/90s.jpg,624 8th Avenue SW,Calgary,T2P 1G4,-114.075219,51.045928,fastfood,353
+Extreme Pita,4.5,//s3-media4.fl.yelpcdn.com/assets/srv0/yelp_styleguide/c73d296de521/assets/img/default_avatars/business_90_square.png,20 Crowfoot Crescent Northwest,Calgary,T3G 2P6,-114.210598,51.125206,fastfood,354
+Infusion Contemporary Cuisine,4.5,//s3-media2.fl.yelpcdn.com/bphoto/eRUZ9Vj6Ss_w3qSw2Pt2ow/90s.jpg,2250 162 Avenue SW,Calgary,T2Y 4Z9,-114.108071,50.906908,fastfood,355
+Pho Hoan,4.5,//s3-media4.fl.yelpcdn.com/bphoto/xxs1MAO68hfwcT1O1M537g/90s.jpg,5020 17 Avenue SE,Calgary,T2A,-113.961861,51.037888,fastfood,356
+Spirit of the Wench,5,//s3-media3.fl.yelpcdn.com/bphoto/91M8cwol1OegrfjPPEmmzw/90s.jpg,1209 1 Street SW,Calgary,T2R 0V3,-114.090827,51.026164,fastfood,357
+Ten Foot Henry,5,//s3-media3.fl.yelpcdn.com/bphoto/Y7kgNgLMZXskpOfL-OMIbQ/90s.jpg,1209 1st Street SW,Calgary,T2R 0V3,-114.090827,51.026164,fastfood,358
+The Baklava Factory,5,//s3-media4.fl.yelpcdn.com/assets/srv0/yelp_styleguide/c73d296de521/assets/img/default_avatars/business_90_square.png,2230 68 Street NE,Calgary,T1Y 0A2,-113.935001,51.070444,fastfood,359
+IL CHIANTI RESTAURANT,3.5,//s3-media1.fl.yelpcdn.com/bphoto/7mviB187OXT8OHKUnJb06Q/90s.jpg,277 20 Avenue NE,Calgary,T2E 1R1,-114.058448,51.070596,italian,360
+4th Street Pizza,4.5,//s3-media4.fl.yelpcdn.com/assets/srv0/yelp_styleguide/c73d296de521/assets/img/default_avatars/business_90_square.png,2105 Edmonton Trl NE,Calgary,T2E 1R2,-114.056175,51.070729,italian,361
+900 Degree Pizza,4.5,//s3-media2.fl.yelpcdn.com/bphoto/jK0DBEd1wJYixvOJsjSFoA/90s.jpg,2829 14 Street SW,Calgary,T2T 3V3,-114.094754,51.029212,italian,362
+Abruzzo Ristorante,3.5,//s3-media1.fl.yelpcdn.com/bphoto/b7lSpIKYYBx_dMf1JksEmg/90s.jpg,402 8 St SW,Calgary,T2P 1Z9,-114.080928,51.049527,italian,363
+Amantea,4.5,//s3-media4.fl.yelpcdn.com/bphoto/RHaw7mp6tp_Tsl1Fw-K46A/90s.jpg,1207 1st Street SW,Calgary,T2R 0V3,-114.065824,51.041143,italian,364
+Amici,3,//s3-media1.fl.yelpcdn.com/bphoto/9mj7sbJohkU6fRRcMZefmA/90s.jpg,500 Country Hills Boulevard NE,Calgary,T3K 4Y7,-114.054961,51.154298,italian,365
+Avatara Pizza,3.5,//s3-media2.fl.yelpcdn.com/bphoto/9ubDIEQFTPWohypQlP1goQ/90s.jpg,3406 3th Avenue NW,Calgary,T2N 0M2,-114.136127,51.057638,italian,366
+Azzurri Pizzeria,5,//s3-media1.fl.yelpcdn.com/bphoto/6wYD9pdcs97sf3mUoKXwMw/90s.jpg,2404 Edmonton Trail NE,Calgary,T2E 3M8,-114.056329,51.073603,italian,367
+Beer Revolution,4,//s3-media4.fl.yelpcdn.com/bphoto/0MEEUkNo_ZTY6YADK6RPMA/90s.jpg,1080 8 Street SW,Calgary,T2R 0J3,-114.081393,51.043098,italian,368
+Bella Roma Restaurant,3.5,//s3-media3.fl.yelpcdn.com/bphoto/1lI6CJ5jpERa0Fz6umcftA/90s.jpg,6449 Crowchild Trl SW,Calgary,T3E 5R7,-114.118054,50.99644,italian,369
+Black Cat Bar & Grill,4,//s3-media3.fl.yelpcdn.com/bphoto/-K9PEJd6bhgLYDPouRNYPQ/90s.jpg,635 6 Avenue SW,Calgary,T2P 0T5,-114.075572,51.047793,italian,370
+Bona Roma Pizza,3,//s3-media3.fl.yelpcdn.com/bphoto/-KoVUBWyVCrXo7AKFP6dpA/90s.jpg,89 Bowridge Drive NW,Calgary,T3B 3R6,-114.207148,51.084771,italian,371
+Boston Pizza,2.5,//s3-media4.fl.yelpcdn.com/bphoto/yCa7CSRK65U_ZtzRB3XtGw/90s.jpg,2420 16 Avenue NW,Calgary,T2M 0M5,-114.116463,51.067178,italian,372
+Boston Pizza,3,//s3-media2.fl.yelpcdn.com/bphoto/phkL4PTf88ADmguVYZavKg/90s.jpg,140 Crowfoot Crescent NW,Calgary,T3G 2W1,-114.19772,51.126981,italian,373
+Boston Pizza,3,//s3-media1.fl.yelpcdn.com/bphoto/OYqulNv1wopik60XrAChTw/90s.jpg,10456 Southport Rd SW,Calgary,T2W 3M5,-114.072897,50.961252,italian,374
+Boston Pizza,1.5,//s3-media2.fl.yelpcdn.com/bphoto/jKSeAbj_W6pt8X6CaE3wuQ/90s.jpg,6455 Macleod Trail SW,Calgary,T2H 0K8,-114.071737,50.995944,italian,375
+Bottega Tratttoria,4.5,//s3-media3.fl.yelpcdn.com/bphoto/KJgxpHZHw2bRMJ3wrIj-Ug/90s.jpg,5708 1 Street SE,Calgary,T2H 1H8,-114.062234,51.003034,italian,376
+Broken Plate Kitchen & Bar,4,//s3-media2.fl.yelpcdn.com/bphoto/fV-FSogekhGu7yD0yxIUuA/90s.jpg,10816 MacLeod Trl SE,Calgary,T2J 5N8,-114.071492,50.957004,italian,377
+Broken Plate Kitchen & Bar,4,//s3-media2.fl.yelpcdn.com/bphoto/fV-FSogekhGu7yD0yxIUuA/90s.jpg,10816 MacLeod Trl SE,Calgary,T2J 5N8,-114.071492,50.957004,italian,378
+Brooklyn Pizzeria,3.5,//s3-media2.fl.yelpcdn.com/bphoto/h_rjdlo5fJdoAk0TeuzwgQ/90s.jpg,8888 Country Hills Boulevard NW,Calgary,T3G 5T4,-114.218954,51.153949,italian,379
+Cafe Mediterranean,3.5,//s3-media1.fl.yelpcdn.com/bphoto/uOKcof-C4N4GysAsOjoh_Q/90s.jpg,1009 1 Street SW,Calgary,T2R 0T8,-114.06569,51.04322,italian,380
+Caffe Francesco,4,//s3-media2.fl.yelpcdn.com/bphoto/2qCccmxLeJ4sAU7YxDLl3Q/90s.jpg,3413 26 Avenue SW,Calgary,T3E 0N3,-114.13619,51.030003,italian,381
+Canadian Pizza Unlimited,3,//s3-media4.fl.yelpcdn.com/assets/srv0/yelp_styleguide/c73d296de521/assets/img/default_avatars/business_90_square.png,630 1 Ave NE,Calgary,T2E 0B6,-114.049671,51.053218,italian,382
+Carino Japanese Bistro + Wine,4,//s3-media3.fl.yelpcdn.com/bphoto/DBVamqE5nEUnG5FMr4d6ew/90s.jpg,709 Edmonton Trail NE,Calgary,T2E 3J5,-114.054394,51.058292,italian,383
+Carino Riserva,5,//s3-media4.fl.yelpcdn.com/bphoto/0osoX3UAgFOam9UuB1mtwQ/90s.jpg,2206 4th Street SW,Calgary,T2S 1W9,-114.071488,51.033228,italian,384
+Catch Restaurant and Oyster Bar,3.5,//s3-media1.fl.yelpcdn.com/bphoto/PiZeAgiFDolbW246kQKspg/90s.jpg,100 8th Avenue SE,Calgary,T2G 0K6,-114.062857,51.045535,italian,385
+Centini Restaurant & Lounge,3.5,//s3-media2.fl.yelpcdn.com/bphoto/pCwGb2PBCr2ulSCYYZfErg/90s.jpg,160 8 Ave SE,Calgary,T2G 0K6,-114.061556,51.045508,italian,386
+Chianti Cafe & Restaurant,2,//s3-media2.fl.yelpcdn.com/bphoto/O5fxtL82pktSx45b58LU-A/90s.jpg,1438 17 Avenue SW,Calgary,T2T 0C8,-114.095411,51.037848,italian,387
+Chianti Cafe & Restaurant,3.5,//s3-media1.fl.yelpcdn.com/bphoto/u5xYdpVk4TroqqtiVggp_Q/90s.jpg,10816 MacLeod Trl SE,Calgary,T2J 5N8,-114.071492,50.957004,italian,388
+Chianti Cafe & Restaurant,3.5,//s3-media2.fl.yelpcdn.com/bphoto/P2RMen-4d0l2CggHaaas0g/90s.jpg,2805 32 Avenue NE,Calgary,T1Y 6J1,-113.99386,51.081403,italian,389
+Chicago Deep Dish Pizza,4,//s3-media3.fl.yelpcdn.com/bphoto/oCq_1uSutCa1PgUrnplA9w/90s.jpg,7248 Ogden Rd SE,Calgary,T2C 1B6,-113.998777,50.987151,italian,390
+Cibo,3.5,//s3-media3.fl.yelpcdn.com/bphoto/LMnPfL05RtGn3ocKLatCBw/90s.jpg,1012 17 Avenue SW,Calgary,T2T 0A5,-114.08502,51.037858,italian,391
+Coco Brooks - Airways Industrial Park,4,//s3-media4.fl.yelpcdn.com/bphoto/1d7wLOhjrG85nhLEEGD72A/90s.jpg,2020M 32 Avenue NE,Calgary,T2E 6T4,-114.010568,51.081567,italian,392
+Crown Grocery & Pizza,4.5,//s3-media2.fl.yelpcdn.com/bphoto/sFI7d22VLOMj7i1OO5QgMg/90s.jpg,1104 20 Ave NW,Calgary,T2M 1E8,-114.08528,51.070437,italian,393
+Dolce Sapori,2.5,//s3-media2.fl.yelpcdn.com/bphoto/tLClMNyegYp9YIx0MsiEwA/90s.jpg,1147 Kensington Crescent NW,Calgary,T2N,-114.088804,51.052314,italian,394
+Double Zero Pizza,3.5,//s3-media1.fl.yelpcdn.com/bphoto/CFCUrvvSw_N8W178bsWJJw/90s.jpg,751 4th Street SW,Calgary,T2P 4K8,-114.071549,51.046239,italian,395
+Double Zero Pizza - Chinook,3.5,//s3-media4.fl.yelpcdn.com/bphoto/BhS8cIpyTPuqPbNz_9hXjw/90s.jpg,6455 Macleod Trail SW,Calgary,T2H 0K8,-114.071737,50.995944,italian,396
+Edelweiss Village,4.5,//s3-media3.fl.yelpcdn.com/bphoto/52BAJBf0ouE6DoPTCKOhNA/90s.jpg,1921 20 Avenue NW,Calgary,T2M 1H6,-114.10566,51.070513,italian,397
+Escoba Bistro & Wine Bar,4.5,//s3-media3.fl.yelpcdn.com/bphoto/uGtjhrGxN2LX6HwTyMvZ9w/90s.jpg,624 8th Avenue SW,Calgary,T2P 1G4,-114.075219,51.045928,italian,398
+Famoso Neapolitan Pizzeria,3.5,//s3-media4.fl.yelpcdn.com/bphoto/q4CJoXAQT5BKd04h9rocNw/90s.jpg,125 Stewart Green SW,Calgary,T3H 3C8,-114.168221,51.016701,italian,399
+Famoso Neapolitan Pizzeria,4,//s3-media1.fl.yelpcdn.com/bphoto/ttkBztm0Uo5VmWJPn02jpQ/90s.jpg,2303 4th Street SW,Calgary,T2S 2S7,-114.071574,51.032131,italian,400
+Famoso Pizzeria,4,//s3-media3.fl.yelpcdn.com/bphoto/iOQpv6R1OzlUrwxsMVM-NA/90s.jpg,5 High Street SE,Calgary,T2Z,-113.960224,50.916198,italian,401
+Fergus & Bix Restaurant and Beer Market,3.5,//s3-media4.fl.yelpcdn.com/bphoto/Ortby4j4oz3keT6ak_aYWw/90s.jpg,2018 33 Avenue SW,Calgary,T2T 1Z4,-114.107971,51.024018,italian,402
+Fiore Cantina Italiana,3.5,//s3-media1.fl.yelpcdn.com/bphoto/V5xa4yM0_I0c6RiTr0RQDA/90s.jpg,638 17 Avenue SW,Calgary,T2S 0B4,-114.075895,51.037858,italian,403
+Full Circle Pizza and Oyster Bar,4,//s3-media2.fl.yelpcdn.com/bphoto/UsNEqtxZfX6LiUWSVEF_pg/90s.jpg,933 17 Avenue SW,Calgary,T2T 5R6,-114.083901,51.037803,italian,404
+Gaga Pizzeria,4,//s3-media2.fl.yelpcdn.com/bphoto/6hWXtHq7jdCiSRQEi81mUg/90s.jpg,12 Avenue SW,Calgary,T3C 1A7,-114.091265,51.042834,italian,405
+Green Olive,2.5,//s3-media4.fl.yelpcdn.com/assets/srv0/yelp_styleguide/c73d296de521/assets/img/default_avatars/business_90_square.png,9650 Harvest Hills Blvd Ne,Calgary,T3K 0B3,-114.069952,51.141579,italian,406
+Green Olive,3,//s3-media4.fl.yelpcdn.com/bphoto/ryFqWcx-rnawv9kyGg941w/90s.jpg,2220 68 Street NE,Calgary,T1Y 6Y7,-113.935007,51.06917,italian,407
+II Giardino Ristorante Italiano,4,//s3-media4.fl.yelpcdn.com/assets/srv0/yelp_styleguide/c73d296de521/assets/img/default_avatars/business_90_square.png,344 17 Ave SW,Calgary,T2S 0A8,-114.069253,51.037855,italian,408
+Il Centro,4,//s3-media2.fl.yelpcdn.com/bphoto/VJ5OTjpbGDe_boPXBboERw/90s.jpg,6036 3 Street SW,Calgary,T2H 0H9,-114.069497,50.999282,italian,409
+Il Gallo Nero,3.5,//s3-media4.fl.yelpcdn.com/assets/srv0/yelp_styleguide/c73d296de521/assets/img/default_avatars/business_90_square.png,211 17 Ave SE,Calgary,T2G 1H5,-114.060341,51.037803,italian,410
+Inglewood Pizza,4,//s3-media1.fl.yelpcdn.com/bphoto/ces6CMPa5hqgg2JYtXy09g/90s.jpg,1225 9 Ave SE,Calgary,T2G 0S9,-114.035001,51.041494,italian,411
+Involtini Ristorante,2,//s3-media2.fl.yelpcdn.com/bphoto/xLA5esqAyICGkIXpyQhiOw/90s.jpg,2515 90 Aveune SW,Calgary,T2V 0L8,-114.119282,50.972119,italian,412
+K2 Grill and Wine,4,//s3-media4.fl.yelpcdn.com/bphoto/usqF5G1-w_eAv4dQKnNb-Q/90s.jpg,4604 37 Street SW,Calgary,T3E 3C9,-114.141107,51.0137,italian,413
+Kitchen,1.5,//s3-media1.fl.yelpcdn.com/bphoto/oVfrn8uxU3pxc_jTu5eUgA/90s.jpg,351 4th Ave SW,Calgary,T2P 0J4,-114.068864,51.049464,italian,414
+La Brezza Restaurant & Cafe,4,//s3-media1.fl.yelpcdn.com/bphoto/3B5h7hL1XP4GcWEt_SeLHA/90s.jpg,990 1 Avenue NE,Calgary,T2E 8J3,-114.040941,51.053258,italian,415
+La Cantina,3.5,//s3-media4.fl.yelpcdn.com/assets/srv0/yelp_styleguide/c73d296de521/assets/img/default_avatars/business_90_square.png,416 1 Avenue NE,Calgary,T2E,-114.05326,51.053448,italian,416
+La cola Napoli Ristorante,4,//s3-media1.fl.yelpcdn.com/bphoto/kEzWQ3eu7q_tfEB8WRDArQ/90s.jpg,12445 Lake Fraser Drive SE,Calgary,T2J 7A4,-114.068069,50.942078,italian,417
+LDV Pizza Bar,4,//s3-media4.fl.yelpcdn.com/bphoto/CBvSSBbNkMAmRWl2sy91Jw/90s.jpg,916 1st Avenue NE,Calgary,T2E 0C5,-114.042031,51.053248,italian,418
+Matador Pizza & Steak House,3,//s3-media3.fl.yelpcdn.com/bphoto/EkBq8xyG2_kkQqC1-ymq_w/90s.jpg,4625 Varsity Drive NW,Calgary,T3A 0Z7,-114.153096,51.093023,italian,419
+Mercato,4,//s3-media3.fl.yelpcdn.com/bphoto/p4aKBsKH4SQPWwqI6kTGGw/90s.jpg,2224 4th St SW,Calgary,T2S 1W9,-114.071488,51.033097,italian,420
+Mercato West,3.5,//s3-media2.fl.yelpcdn.com/bphoto/9cZ3xzer0nTLqCWx2a8eYQ/90s.jpg,873 85th Street SW,Calgary,T3H 0J5,-114.211125,51.060651,italian,421
+Midtown Kitchen & Bar,3,//s3-media3.fl.yelpcdn.com/bphoto/NnT-mWATjQekE8C8HPiXqg/90s.jpg,302 10th Street NW,Calgary,T2N 1V8,-114.085885,51.054169,italian,422
+MiraKuru,4,//s3-media2.fl.yelpcdn.com/bphoto/R9wrykJGbTR8FCCxSMgQoQ/90s.jpg,529-17th Avenue sw.,Calgary,T2S 0A9,-114.073341,51.037803,italian,423
+Mitillinis Pizza & Steak House,3.5,//s3-media4.fl.yelpcdn.com/bphoto/KmT0CCbJjns2BWLovGrbNA/90s.jpg,5720 Silver Springs Blvd NW,Calgary,T3B 4N7,-114.188621,51.10567,italian,424
+Mr Sub,4,//s3-media2.fl.yelpcdn.com/bphoto/JI9FUUIXHh5vjgZiS6In0A/90s.jpg,4662 MacLeod Trl SW,Calgary,T2G 5E8,-114.066157,51.011857,italian,425
+Olive Garden,3,//s3-media2.fl.yelpcdn.com/bphoto/RVEsLTgLb_mGBeFpduxVBg/90s.jpg,333 36 Street NE,Calgary,T2A 7R4,-113.981994,51.053429,italian,426
+Olive Grove Pizzeria,3,//s3-media1.fl.yelpcdn.com/bphoto/Ke48lVQXXjdlOOwmiUc0GQ/90s.jpg,11566 24 Street SE,Calgary,T2Z 3J3,-114.002652,50.951499,italian,427
+Osteria De Medici,2,//s3-media3.fl.yelpcdn.com/bphoto/6jlBkpsDPs8kdhN0Cc7zfQ/90s.jpg,201 10 Street NW,Calgary,T2N 1V5,-114.085945,51.052809,italian,428
+Pacini Pasta & Grill Ristorante,3,//s3-media4.fl.yelpcdn.com/bphoto/wvB7GmsjZ2Uv7haVM0-kiA/90s.jpg,123 Freeport Boulevard NE,Calgary,T3N 0A3,-114.001311,51.150734,italian,429
+Panini Pizza & Pasta,3,//s3-media4.fl.yelpcdn.com/assets/srv0/yelp_styleguide/c73d296de521/assets/img/default_avatars/business_90_square.png,1616 14 Ave NW,Calgary,T2N 1M5,-114.097872,51.064447,italian,430
+Partners Dining & Cocktail Lounge,3.5,//s3-media4.fl.yelpcdn.com/assets/srv0/yelp_styleguide/c73d296de521/assets/img/default_avatars/business_90_square.png,7740 18 St SE,Calgary,T2C 2N5,-114.015756,50.983162,italian,431
+Pelican Pier Seafood Bar,4,//s3-media1.fl.yelpcdn.com/bphoto/JLSPCj5pFYbfKr-7k6MmEA/90s.jpg,4404 14 Street NW,Calgary,T2K 1J5,-114.094597,51.09138,italian,432
+Pita Basket Cafe,3.5,//s3-media2.fl.yelpcdn.com/bphoto/4Musz6OneAI9HW5t6HedQg/90s.jpg,3221 Sunridge Way NE,Calgary,T1Y 7M4,-113.99113,51.069163,italian,433
+Red Rock Bar and Grill,3.5,//s3-media3.fl.yelpcdn.com/bphoto/8TI-rFpV6FL4e6OJ1vL8pg/90s.jpg,60 Crowfoot Crescent NW,Calgary,T3G 3J9,-114.19961,51.125821,italian,434
+Ristorante Pizza Bella Italia,1,//s3-media4.fl.yelpcdn.com/assets/srv0/yelp_styleguide/c73d296de521/assets/img/default_avatars/business_90_square.png,3109 Palliser Drive SW,Calgary,T2V 4W5,-114.130475,50.970365,italian,435
+Ristorante Pulcinella,3.5,//s3-media3.fl.yelpcdn.com/bphoto/jrAudqumu0pJYcgxRfaZqw/90s.jpg,1147 Kensington Crescent NW,Calgary,T2N 1X7,-114.088804,51.052314,italian,436
+Rustic Sourdough Bakery,4,//s3-media1.fl.yelpcdn.com/bphoto/X2coZ1vOdeBySvPM81iH-w/90s.jpg,1305 17 Avenue SW,Calgary,T2T 0C4,-114.09207,51.037783,italian,437
+San Remo Ristorante,2.5,//s3-media3.fl.yelpcdn.com/bphoto/5i5R4BZvhHXADIZapUUX1w/90s.jpg,26 McKenzie Towne Gate Southeast,Calgary,T2Z 0N2,-113.961898,50.915447,italian,438
+Sassi Kitchen & Bar,2,//s3-media2.fl.yelpcdn.com/bphoto/V5KEUQ8COUrVByr9xFGUfw/90s.jpg,2004 4 Street SW,Calgary,T2S 1W3,-114.071487,51.034942,italian,439
+Sauce,3.5,//s3-media1.fl.yelpcdn.com/bphoto/j1ZRwmcH6Y5VsW7MIGcEQQ/90s.jpg,3326 17th Avenue SW,Calgary,T3E 0B4,-114.13452,51.037845,italian,440
+Sepino,2.5,//s3-media1.fl.yelpcdn.com/bphoto/BhFn2EdTHg9C3CWBwzCYCQ/90s.jpg,7222 Edgemont Blvd NW,Calgary,T3A 2X7,-114.155577,51.119555,italian,441
+Soffritto,4.5,//s3-media3.fl.yelpcdn.com/bphoto/RGw89DSvJ0L-UKhyQhpUcg/90s.jpg,380 Canyon Meadows Drive SE,Calgary,T2J,-114.064996,50.930308,italian,442
+Spaghetti Cafe Prairie,4.5,//s3-media2.fl.yelpcdn.com/bphoto/-kKrpxEbVLsct5ukgu3b0w/90s.jpg,4708 16th Avenue NW,Calgary,T3B 0N1,-114.163452,51.071946,italian,443
+Spinelli,4,//s3-media4.fl.yelpcdn.com/bphoto/KpCXnZdNUZbNDIelUMnShg/90s.jpg,9919 Fairmount Drive SE,Calgary,T2J 1G7,-114.058684,50.963191,italian,444
+Spiros On 17th,4,//s3-media2.fl.yelpcdn.com/bphoto/4TYyM6J-yoH6PYFukSjE5A/90s.jpg,1902 33 St SW,Calgary,T3E 2S5,-114.135437,51.03766,italian,445
+Stromboli Inn,4.5,//s3-media3.fl.yelpcdn.com/bphoto/HRnkU-xYASg8h50YXQUhJg/90s.jpg,614 1st Avenue NE,Calgary,T2E 0B6,-114.05087,51.053218,italian,446
+Sugo Caffe Italia,3.5,//s3-media2.fl.yelpcdn.com/bphoto/nFGwuZBibfsUwhddAJWDgQ/90s.jpg,1214 9 Avenue SE,Calgary,T2G 0T1,-114.035961,51.041938,italian,447
+Sunterra Market,3,//s3-media3.fl.yelpcdn.com/bphoto/MHtDQlJAYjUir_7psROpig/90s.jpg,803 49 Avenue SW,Calgary,T2S 1G8,-114.081851,51.009573,italian,448
+Taste Restaurant,4,//s3-media1.fl.yelpcdn.com/bphoto/InYjEvMrgCF5xkHUme9nYQ/90s.jpg,1210 1st Street SW,Calgary,T2R 0V4,-114.065735,51.041313,italian,449
+The Holy Grill,4.5,//s3-media3.fl.yelpcdn.com/bphoto/7-Nuyu3RuJssl-J85zSKZQ/90s.jpg,827 10th Avenue SW,Calgary,T2R 0B4,-114.079638,51.04376,italian,450
+The Living Room Restaurant,3.5,//s3-media2.fl.yelpcdn.com/bphoto/A9eDyDsqTSLzvYzHy8H7lg/90s.jpg,514 17 Ave SW,Calgary,T2S 0B1,-114.07246,51.037848,italian,451
+The Place Steakhouse,4,//s3-media3.fl.yelpcdn.com/bphoto/rcIawQ38bw5O76Y6KK0ddA/90s.jpg,6308 Bowness Road NW,Calgary,T3B 0E5,-114.178738,51.085117,italian,452
+The Store,4,//s3-media1.fl.yelpcdn.com/bphoto/ylyD_778N-MNAADFmw5Gpg/90s.jpg,5140 Skyline Way NE,Calgary,T2E 6V1,-114.040848,51.098338,italian,453
+Toscana,2.5,//s3-media3.fl.yelpcdn.com/bphoto/0z7aH7PI4H1dz_x0QmwWOw/90s.jpg,8330 Macleod Trail SE,Calgary,T2H 2V2,-114.071428,50.978734,italian,454
+UNA Pizza + Wine,4,//s3-media2.fl.yelpcdn.com/bphoto/xkfwwweu2mRb5penEllyiw/90s.jpg,618 17th Avenue SW,Calgary,T2S 0B4,-114.07551,51.037858,italian,455
+Via Cibo,4,//s3-media2.fl.yelpcdn.com/bphoto/jpuOB_WAKXFR3-lLphhDPg/90s.jpg,7929 11th Street SE,Calgary,T2H 0A7,-114.042586,50.983843,italian,456
+Villa Firenze,4.5,//s3-media1.fl.yelpcdn.com/bphoto/MjDTWjUiERb5ye6WZ1vajQ/90s.jpg,610 1 Avenue NE,Calgary,T2E 0B6,-114.051021,51.053208,italian,457
+Villa Maria,4,//s3-media1.fl.yelpcdn.com/bphoto/4n6tqPSwtmPnK3Rg36W6dQ/90s.jpg,121 17th Avenue SE,Calgary,T2G 1H3,-114.062301,51.037803,italian,458
+Vin Room Mission,4,//s3-media4.fl.yelpcdn.com/bphoto/FE280fUaXRGwLtxKdjW8AA/90s.jpg,2310 4th Street SW,Calgary,T2S 1X2,-114.071477,51.031891,italian,459
+Why Not,3,//s3-media4.fl.yelpcdn.com/assets/srv0/yelp_styleguide/c73d296de521/assets/img/default_avatars/business_90_square.png,555 Strathcona Boulevard SW,Calgary,T3H 2Z9,-114.184707,51.048623,italian,460
+Winebar Kensington,4.5,//s3-media2.fl.yelpcdn.com/bphoto/ZM7ycKvty59Gnft-0P4ykw/90s.jpg,1131 Kensington Road NW,Calgary,T2N,-114.08778,51.052494,italian,461
+Without Papers Pizza,3.5,//s3-media2.fl.yelpcdn.com/bphoto/zTS-rs-OOXOLeybdywtaDw/90s.jpg,1216 9th Avenue SE,Calgary,T2G 0T1,-114.036231,51.042034,italian,462
+Atlas Pizza & Sports,4,//s3-media3.fl.yelpcdn.com/bphoto/vEUymOK63JkwQi03I7oWQA/90s.jpg,6060 Memorial Drive NE,Calgary,T2A 5Z5,-113.948151,51.052957,pub,463
+Ballys,3,//s3-media1.fl.yelpcdn.com/bphoto/Yo0cJBjgcxfHrnvYpPQqaQ/90s.jpg,2905 14 Street SW,Calgary,T2T 3V5,-114.094754,51.02823,pub,464
+Bamboo Tiki Room,4,//s3-media4.fl.yelpcdn.com/assets/srv0/yelp_styleguide/c73d296de521/assets/img/default_avatars/business_90_square.png,1205 1st Street SW,Calgary,T2E 4Y7,-114.065824,51.041222,pub,465
+Bear & Kilt Freehouse,3.5,//s3-media2.fl.yelpcdn.com/bphoto/lMOehKivXynpyFP7k5voaw/90s.jpg,110 8th Ave SW,Calgary,T2P 1B3,-114.063709,51.045558,pub,466
+Beer Revolution,4,//s3-media4.fl.yelpcdn.com/bphoto/0MEEUkNo_ZTY6YADK6RPMA/90s.jpg,1080 8 Street SW,Calgary,T2R 0J3,-114.081393,51.043098,pub,467
+Below Deck,3.5,//s3-media3.fl.yelpcdn.com/bphoto/x6q42T_jQVI242LsKvxG4A/90s.jpg,221 8 Ave SW,Calgary,T2P 7N2,-114.06637,51.059743,pub,468
+Black Bull,3,//s3-media2.fl.yelpcdn.com/bphoto/PIehR3-65RnrwDLaXMh_KQ/90s.jpg,53 Hunterhorn Road NE,Calgary,T2K 6H9,-114.05005,51.115871,pub,469
+Blanco Cantina,3,//s3-media3.fl.yelpcdn.com/bphoto/Sh6oBBUEFI1EjAFr-jTldQ/90s.jpg,723 17 Avenue SW,Calgary,T2S 0B6,-114.078651,51.037803,pub,470
+Blind Beggar,4,//s3-media4.fl.yelpcdn.com/bphoto/nG5jjHh9XmvYReL4dO9DPA/90s.jpg,4608 MacLeod Trail SW,Calgary,T2G 5E8,-114.065825,51.012584,pub,471
+Blind Beggar,4,//s3-media4.fl.yelpcdn.com/bphoto/nG5jjHh9XmvYReL4dO9DPA/90s.jpg,4608 MacLeod Trail SW,Calgary,T2G 5E8,-114.065825,51.012584,pub,472
+Boomtown,3,//s3-media1.fl.yelpcdn.com/bphoto/kFyJ5bp6-8t85cVPTAGQZA/90s.jpg,135 Southland Drive SE,Calgary,T2J 5X5,-114.069851,50.964934,pub,473
+Brewsters Brewing Company & Restaurant,3.5,//s3-media1.fl.yelpcdn.com/bphoto/4k1ruZhF16_95o_cLXG6RQ/90s.jpg,834 11th Avenue SW,Calgary,T2R 0E5,-114.079893,51.04285,pub,474
+Brewsters Brewing Company & Restaurant,3,//s3-media1.fl.yelpcdn.com/bphoto/_OrykRI4DOMgB0s0b4t4Hw/90s.jpg,53 Street SE,Calgary,T2C 4V1,-113.95659,51.00305,pub,475
+Brewsters Brewing Company & Restaurant,3.5,//s3-media4.fl.yelpcdn.com/bphoto/6uYF8EkgpGEySNIS1whgXA/90s.jpg,25 Crowfoot Terrace NW,Calgary,T3G 4J8,-114.199815,51.125776,pub,476
+Briggs Kitchen,4,//s3-media3.fl.yelpcdn.com/bphoto/X4409-LpRa3IHRXsFlJlOQ/90s.jpg,317 10th Avenue SW,Calgary,T2R 0A5,-114.056361,51.061513,pub,477
+Broken City Social Club,4,//s3-media4.fl.yelpcdn.com/bphoto/Quy55nMnU52GcaLeKMYQVQ/90s.jpg,613 11 Ave SW,Calgary,T2R 0E1,-114.074991,51.042673,pub,478
+Buffalo Wild Wings,3,//s3-media2.fl.yelpcdn.com/bphoto/M__M8Rg-MIgsSJQNWXPfaA/90s.jpg,9697 Macleod Trail,Calgary,T2J 0P6,-114.071767,50.967775,pub,479
+Bull & Finch,3,//s3-media4.fl.yelpcdn.com/bphoto/gEml6d27-9Od2bUHgF63fQ/90s.jpg,10233 Elbow Drive SW,Calgary,T2W 1E8,-114.084823,50.961973,pub,480
+Bull & Finch,3,//s3-media1.fl.yelpcdn.com/bphoto/1kYZEO7pu4UQppyMsPj6QQ/90s.jpg,11520 24 Street SE,Calgary,T2Z 3E9,-114.001455,50.952658,pub,481
+Bull & Finch,3.5,//s3-media2.fl.yelpcdn.com/bphoto/r2XN61W6zI1l9Wy7qCIz_A/90s.jpg,2335 162 Avenue SW,Calgary,T2Y 4S6,-114.11215,50.906643,pub,482
+Bull & Finch,3,//s3-media4.fl.yelpcdn.com/bphoto/gEml6d27-9Od2bUHgF63fQ/90s.jpg,10233 Elbow Drive SW,Calgary,T2W 1E8,-114.084823,50.961973,pub,483
+CRAFT Beer et,3.5,//s3-media4.fl.yelpcdn.com/bphoto/zucrtSiuKDJvj24O76bIUg/90s.jpg,345 10th Avenue SW,Calgary,T2R 0A5,-114.068935,51.043438,pub,484
+Dickens,4,//s3-media3.fl.yelpcdn.com/bphoto/76m65RgIFOJlJRK5-Xi2WQ/90s.jpg,1000 9th Avenue SW,Calgary,T2P 2Y6,-114.084159,51.045228,pub,485
+Dixons Public House,3,//s3-media2.fl.yelpcdn.com/bphoto/tvumSl8aTwSG5pjiDJXE4Q/90s.jpg,15425 Bannister Road SE,Calgary,T2X 3E9,-114.06596,50.914743,pub,486
+Donegal Irish,3,//s3-media3.fl.yelpcdn.com/bphoto/FOmdoRatOssxlqVLKrcHWw/90s.jpg,1637 37 St SW,Calgary,T3C 1S7,-114.141264,51.038421,pub,487
+Drum & Monkey,3.5,//s3-media3.fl.yelpcdn.com/bphoto/2PtvI2Bt9Kp-4HnczNy4Cg/90s.jpg,1201 1 Street SW,Calgary,T2R 0V3,-114.065824,51.041323,pub,488
+Earls Kitchen,3,//s3-media1.fl.yelpcdn.com/bphoto/4Oc4wh9buoOunRzurAPe6w/90s.jpg,2401 4th Street,Calgary,T2S 1X5,-114.071574,51.031251,pub,489
+Escoba Bistro & Wine,4.5,//s3-media3.fl.yelpcdn.com/bphoto/uGtjhrGxN2LX6HwTyMvZ9w/90s.jpg,624 8th Avenue SW,Calgary,T2P 1G4,-114.075219,51.045928,pub,490
+Fourth & 4th,4,//s3-media3.fl.yelpcdn.com/bphoto/MYc1lyU7T3-nz8yIj6UtEg/90s.jpg,503 4th Ave SW,Calgary,T2P 0J7,-114.071812,51.049563,pub,491
+Fourth & 4th,4,//s3-media3.fl.yelpcdn.com/bphoto/MYc1lyU7T3-nz8yIj6UtEg/90s.jpg,503 4th Ave SW,Calgary,T2P 0J7,-114.071812,51.049563,pub,492
+Gallaghers,3,//s3-media4.fl.yelpcdn.com/assets/srv0/yelp_styleguide/c73d296de521/assets/img/default_avatars/business_90_square.png,5010 4 Street NE,Calgary,T2K 5X8,-114.053798,51.096924,pub,493
+Galliano Neighbourhood,3.5,//s3-media2.fl.yelpcdn.com/bphoto/lu1R7lbgTeeb794BQdajFA/90s.jpg,817 19 Street NE,Calgary,T2E 4X5,-114.013247,51.058817,pub,494
+Hexters,3.5,//s3-media2.fl.yelpcdn.com/bphoto/BHrznqEbsYiDjDh27L5r7g/90s.jpg,6404 Bowness Rd NW,Calgary,T3B 0E7,-114.18014,51.085752,pub,495
+Home & Away,4,//s3-media4.fl.yelpcdn.com/bphoto/xkRvQDipUJfM2Lu-m1072Q/90s.jpg,1331 17 Avenue SW,Calgary,T2T 0C4,-114.09151,51.067813,pub,496
+Jamesons,3,//s3-media2.fl.yelpcdn.com/bphoto/SoSxEYVm0OIeQ1unfvSXGw/90s.jpg,3790 Brentwood Rd NW,Calgary,T2L 1K8,-114.128236,51.085685,pub,497
+Joyce On 4th,2.5,//s3-media2.fl.yelpcdn.com/bphoto/UQ1Z2xZqK8o8MBLT37-gyw/90s.jpg,24th Avenue SW,Calgary,T2S 0K4,-114.071925,51.031607,pub,498
+Last Best Brewing & Distilling,4,//s3-media2.fl.yelpcdn.com/bphoto/avmiABB4fD6oHIvxDyqdXg/90s.jpg,607 11 Avenue SW,Calgary,T2R 0E1,-114.074383,51.04266,pub,499
+Limericks Traditional Public House,3.5,//s3-media1.fl.yelpcdn.com/bphoto/OlKdIDTXbiF1Y7gE-7gLSQ/90s.jpg,7304 MacLeod Trl SE,Calgary,T2E 4Y7,-114.071416,50.988431,pub,500
+Local 510,3.5,//s3-media3.fl.yelpcdn.com/bphoto/QFqwIdbRvOzaQysbgJxURw/90s.jpg,510 17 Avenue SW,Calgary,T2S 0B1,-114.07226,51.037848,pub,501
+LOCAL on 8th Ave,4,//s3-media1.fl.yelpcdn.com/bphoto/kx-t0iA1AwwvehbkQWWZ6w/90s.jpg,310 8th Avenue SW,Calgary,T2P 1C1,-114.080877,51.050499,pub,502
+Loungeburger,2.5,//s3-media4.fl.yelpcdn.com/bphoto/kYPOOa17P5NM15c9dGT5Cw/90s.jpg,1331 MacLeod Trail SE,Calgary,T2G 0L3,-114.058545,51.040055,pub,503
+Melange,3.5,//s3-media1.fl.yelpcdn.com/bphoto/Jqrh6PE1GLQk3rwbQ3Ksqw/90s.jpg,644 6 Ave SW,Calgary,T2P 0S4,-114.074812,51.047823,pub,504
+Midtown Kitchen &,3,//s3-media3.fl.yelpcdn.com/bphoto/NnT-mWATjQekE8C8HPiXqg/90s.jpg,302 10th Street NW,Calgary,T2N 1V8,-114.085885,51.054169,pub,505
+Milk Tiger Lounge,4,//s3-media3.fl.yelpcdn.com/bphoto/LOD9XWtqXGhdctB9sAJphg/90s.jpg,1410 4th St SW,Calgary,T2R 0Y1,-114.071497,51.039341,pub,506
+Ming,4,//s3-media2.fl.yelpcdn.com/bphoto/qc5ODRPt-Kqgomu_FsIKEQ/90s.jpg,520 17 Avenue SW,Calgary,T2S 0B1,-114.07267,51.037848,pub,507
+Mug Shotz Sports,4,//s3-media3.fl.yelpcdn.com/bphoto/Q3V8XnvjvSGUti7RV2v0PA/90s.jpg,2808 Ogden Rd SE,Calgary,T2G 4R7,-114.031294,51.029392,pub,508
+Mugs Restaurant &,3.5,//s3-media2.fl.yelpcdn.com/bphoto/UBCh3UFmtdEHoshJy_ClUg/90s.jpg,1330 15 Avenue SW,Calgary,T3C 0X7,-114.09389,51.039398,pub,509
+National,3,//s3-media3.fl.yelpcdn.com/bphoto/-l6ueSypdfVOuIKOl0H-Nw/90s.jpg,550 17th Avenue Southwest,Calgary,T2S 0B2,-114.072958,51.037853,pub,510
+National 10th,3.5,//s3-media3.fl.yelpcdn.com/bphoto/ZMah-vftc28tiyVdw8KYXQ/90s.jpg,341 10th Avenue SW,Calgary,T2R 0A5,-114.068871,51.043436,pub,511
+National Westhills,3,//s3-media4.fl.yelpcdn.com/bphoto/el_RTq0mHIVyj_SzvvZjjg/90s.jpg,180 Stewart Green SW,Calgary,T3H 3C8,-114.168343,51.015899,pub,512
+Newcastle,3.5,//s3-media2.fl.yelpcdn.com/bphoto/eu-F8imttkN-hP_QfnBRqg/90s.jpg,2703 17 Avenue SW,Calgary,T3E 0A7,-114.123997,51.037796,pub,513
+Nixx Neighbourhood,3,//s3-media4.fl.yelpcdn.com/bphoto/l0pAftPbqzCzoXwrl4kCoQ/90s.jpg,2418 Edmonton Trail NE,Calgary,T2E 3M8,-114.056259,51.074033,pub,514
+Nottinghams,3,//s3-media4.fl.yelpcdn.com/bphoto/ivkWgQjxK4I6R4qWkMLLOA/90s.jpg,8060 Silver Springs Boulevard NW,Calgary,T3B 5K1,-114.20544,51.115707,pub,515
+Oak Tree Tavern,3.5,//s3-media2.fl.yelpcdn.com/bphoto/lnHFwB7rB0OEDufPceBcLQ/90s.jpg,124 10 Street NW,Calgary,T2N,-114.085857,51.052911,pub,516
+Ogden Pizza &,3,//s3-media3.fl.yelpcdn.com/bphoto/dW4v059xp_uWlYbaIiWU9Q/90s.jpg,7401 Ogden Road SE,Calgary,T2C 1B9,-113.998864,50.986639,pub,517
+Ox & Angela,4,//s3-media2.fl.yelpcdn.com/bphoto/Hwnj-IMGceP6Qxd5PmUmTQ/90s.jpg,528 17th Avenue SW,Calgary,T2S 0A9,-114.07312,51.037858,pub,518
+Peanuts Public House,3.5,//s3-media1.fl.yelpcdn.com/bphoto/zdWJqtY6en49uGPwLXW3KA/90s.jpg,9030 MacLeod Trail S,Calgary,T2H 0M4,-114.071426,50.972851,pub,519
+Pig & Duke,2.5,//s3-media4.fl.yelpcdn.com/bphoto/DDzTl-p_zwWfxiE2hJLV4w/90s.jpg,4th Avenue SW,Calgary,T2P,-114.074421,51.049686,pub,520
+Point & Feather,3,//s3-media1.fl.yelpcdn.com/bphoto/xyacEUQYoyW285Coc3YvUQ/90s.jpg,2515 90 Ave SW,Calgary,T2V 0L8,-114.119051,50.972133,pub,521
+Proof Cocktail,4.5,//s3-media1.fl.yelpcdn.com/bphoto/xdiB1GdjFIFW88U0NX7hvw/90s.jpg,1302 1st Street SW,Calgary,T2R 0V7,-114.065797,51.040207,pub,522
+Public Beer et,4,//s3-media3.fl.yelpcdn.com/bphoto/oOA0XeUuIFILMk-QhXCQIQ/90s.jpg,3181 32nd Street NE,Calgary,T1Y 6Z7,-113.988664,51.080381,pub,523
+Red Fox,3.5,//s3-media3.fl.yelpcdn.com/bphoto/ONU5IKvfN6qLw6HimOIzvg/90s.jpg,8 Ave SW,Calgary,T2P 1H3,-114.07682,51.045991,pub,524
+Red Fox,3.5,//s3-media3.fl.yelpcdn.com/bphoto/ONU5IKvfN6qLw6HimOIzvg/90s.jpg,8 Ave SW,Calgary,T2P 1H3,-114.07682,51.045991,pub,525
+Regal Beagle,3.5,//s3-media3.fl.yelpcdn.com/bphoto/Jjtzkc4udWkPEr_WKixWTg/90s.jpg,410 14 St NW,Calgary,T2N 1Z7,-114.094687,51.05543,pub,526
+Regal Beagle,2.5,//s3-media1.fl.yelpcdn.com/bphoto/he2ipIqxrLqDloL_hFnvjQ/90s.jpg,180 94 Ave SE,Calgary,T2J 3G8,-114.070241,50.968688,pub,527
+Regal Beagle,3,//s3-media3.fl.yelpcdn.com/bphoto/lqTvZAh-TdAN5zM4RzfQ4A/90s.jpg,5308 17 Avenue SW,Calgary,T3C,-114.16093,51.037818,pub,528
+Riverbend Station,3.5,//s3-media4.fl.yelpcdn.com/bphoto/9sbhRb7gnUX3C3EA5UzEmg/90s.jpg,40 Riverglen Drive SE,Calgary,T2C 4L5,-114.01344,50.975957,pub,529
+Schooners,3.5,//s3-media4.fl.yelpcdn.com/bphoto/fD0aALrQwF0df-hzvjs57g/90s.jpg,6416 Old Banff Coach Road Southwest,Calgary,T3H 2H3,-114.180467,51.060387,pub,530
+Seanachie Irish,3,//s3-media3.fl.yelpcdn.com/bphoto/Er9o4Gq9goJl-y6JWOYwSw/90s.jpg,5909 Signal Hill Drive SW,Calgary,T3H 3P8,-114.174011,51.017943,pub,531
+Shark Club Calgary Deerfoot Meadows,3,//s3-media2.fl.yelpcdn.com/bphoto/xvy24EHLEahxPPR-8sXd2A/90s.jpg,7995 11th Street SE,Calgary,T2H 0B8,-114.042729,50.98373,pub,532
+Side Street,4,//s3-media1.fl.yelpcdn.com/bphoto/f59pVcyGdDFHfyPcJLs7Tg/90s.jpg,1167 Kensington Crescent NW,Calgary,T2N 1X7,-114.089575,51.052143,pub,533
+Smashburger,4,//s3-media2.fl.yelpcdn.com/bphoto/BpUQ1-52OGvyyv3aH0lNUA/90s.jpg,2770 32 Avenue NE,Calgary,T1Y 5S5,-113.99585,51.081578,pub,534
+Spot On Kitchen,4.5,//s3-media3.fl.yelpcdn.com/bphoto/2mpm5G-_PeGFq4ZafC64tA/90s.jpg,2 Richard Way SW,Calgary,T3E 7M9,-114.131306,51.00595,pub,535
+St. James Corner Restaurant & Irish,4,//s3-media4.fl.yelpcdn.com/bphoto/Dd1RG94fwrGm6hK5PZVNLA/90s.jpg,1219 1 St SW,Calgary,T2R 0V3,-114.065823,51.041252,pub,536
+Stonegate,2.5,//s3-media4.fl.yelpcdn.com/bphoto/EYmyy2o4QESjMhSPUdU5xg/90s.jpg,7640 Fairmount Drive SE,Calgary,T2H 0X9,-114.060059,50.985201,pub,537
+Swans of Inglewood Restaurant & Public House,3,//s3-media2.fl.yelpcdn.com/bphoto/eA31BE4Rtqgq8m2bRH7aSw/90s.jpg,1336 9th Ave SE,Calgary,T2G 0T3,-114.03214,51.040427,pub,538
+Swigs,2.5,//s3-media2.fl.yelpcdn.com/bphoto/PkDtyZ5H1lHAuDYBHImTwg/90s.jpg,11213 30 St SW,Calgary,T2W,-114.129574,50.953721,pub,539
+Swine & Sow Wine & Ale House,3.5,//s3-media3.fl.yelpcdn.com/bphoto/hYDAzCs-r-ZmjDtpvDApag/90s.jpg,6 Avenue SW,Calgary,T2P 0P8,-114.06391,51.04741,pub,540
+Taste Restaurant,4,//s3-media1.fl.yelpcdn.com/bphoto/InYjEvMrgCF5xkHUme9nYQ/90s.jpg,1210 1st Street SW,Calgary,T2R 0V4,-114.065735,51.041313,pub,541
+The Barn - Public House,5,//s3-media4.fl.yelpcdn.com/bphoto/KlaHNyeJyUXId4n9dRDjnQ/90s.jpg,1940 6th Avenue NW,Calgary,T2N 0W3,-114.103287,51.057659,pub,542
+The Black Sheep West Coast,3.5,//s3-media4.fl.yelpcdn.com/assets/srv0/yelp_styleguide/c73d296de521/assets/img/default_avatars/business_90_square.png,7746 Elbow Dr SW,Calgary,T2V,-114.083107,50.984284,pub,543
+The Blind Monk,3,//s3-media2.fl.yelpcdn.com/bphoto/R5NHgvI1v8-W1OWk76vVmw/90s.jpg,918 12th Ave SW,Calgary,T2R 0J3,-114.082059,51.041981,pub,544
+The Blues Can,3.5,//s3-media1.fl.yelpcdn.com/bphoto/4wesv25DUaKEBz-QBrt2QQ/90s.jpg,1429 9 Avenue SE,Calgary,T2G 0T4,-114.029791,51.039454,pub,545
+The Canadian Brewhouse,3,//s3-media4.fl.yelpcdn.com/bphoto/pRI_Pzl1deIRBbLwimMQRQ/90s.jpg,9650 Harvest Hills Boulevard NE,Calgary,T3K 0B3,-114.069952,51.141579,pub,546
+The Distillery Public House,3.5,//s3-media4.fl.yelpcdn.com/bphoto/thSwaW8kvb4kFn3ec1Z0xQ/90s.jpg,839 5 Avenue SW,Calgary,T2P 3C8,-114.080562,51.048863,pub,547
+The Dog & Duck Public House,3.5,//s3-media4.fl.yelpcdn.com/bphoto/uZ_SGT5-rlk-3d5Pw_xaGA/90s.jpg,5340 2 St SW,Calgary,T2H 0G7,-114.068577,51.005761,pub,548
+The Garage Sports & Billiards,3,//s3-media4.fl.yelpcdn.com/bphoto/4hXn-FuwsxiEA1iqCxQHZg/90s.jpg,195 200 Barclay Parade SW,Calgary,T2E 4Y7,-114.069971,51.05138,pub,549
+The Garrison,4,//s3-media2.fl.yelpcdn.com/bphoto/IrHE3lScWMtz8RUHFeDazA/90s.jpg,2040 42 Ave SW,Calgary,T2T 2M7,-114.108431,51.016028,pub,550
+The James Joyce Irish,3,//s3-media3.fl.yelpcdn.com/bphoto/Vr-5LhWwvMHKuvrMfioNYQ/90s.jpg,114 8 Ave SW,Calgary,T2P 1B3,-114.063959,51.045568,pub,551
+The Kilkenny Irish,3,//s3-media3.fl.yelpcdn.com/bphoto/tGiHP1c9NgJ6nHoSMz6d4g/90s.jpg,3630 Brentwood Road NW,Calgary,T2L 1K8,-114.127171,51.084895,pub,552
+The Local 522,3.5,//s3-media2.fl.yelpcdn.com/bphoto/mCh5MOUMJlvDFa6oJxjvag/90s.jpg,522 6 Ave SW,Calgary,T2P 0S1,-114.07288,51.047748,pub,553
+The Other Side,3,//s3-media2.fl.yelpcdn.com/bphoto/kqNYxaTGq8rdqk2Tvc5KEw/90s.jpg,5940 Blackfoot Trail SE,Calgary,T2H 2X7,-114.048627,51.00036,pub,554
+The Palomino Smokehouse,3.5,//s3-media2.fl.yelpcdn.com/bphoto/QKQuWa1-T7ydrSaOUzp5gA/90s.jpg,109 7th Avenue SW,Calgary,T2P 0W5,-114.063552,51.046443,pub,555
+The Pint,2,//s3-media2.fl.yelpcdn.com/bphoto/JdIvQOrWP_AlJNU2C5vJgA/90s.jpg,1428 17 Avenue SW,Calgary,T2T 3S9,-114.09446,51.037848,pub,556
+The Riverstone,3.5,//s3-media4.fl.yelpcdn.com/bphoto/WQ14KM17dM1Eq5w-aKAmnQ/90s.jpg,773 Northmount Dr NW,Calgary,T2L 0A1,-114.095999,51.082938,pub,557
+The Yardhouse Restaurant,2.5,//s3-media2.fl.yelpcdn.com/bphoto/nJ9xWtBDtq-nD5R4noqx-Q/90s.jpg,1136 Kensington Road NW,Calgary,T2N 3P3,-114.087711,51.052547,pub,558
+theLOCAL390,4.5,//s3-media1.fl.yelpcdn.com/bphoto/d7dHqfFF7qm9w0fHNMwZdw/90s.jpg,390 Northmount Drive NW,Calgary,T2K 3H5,-114.07977,51.093517,pub,559
+Three Coyotes,3.5,//s3-media2.fl.yelpcdn.com/bphoto/KxgpxwXtiVLyq5x-eebcIQ/90s.jpg,211 61 Avenue SE,Calgary,T2H 0R4,-114.06172,50.997673,pub,560
+Toad N Turtle Pubhouse & Grill,4,//s3-media4.fl.yelpcdn.com/bphoto/l7mg4paBc3X5CtuvK7wvDQ/90s.jpg,2475 27 Avenue NE,Calgary,T2E 8M1,-114.00323,51.076783,pub,561
+Tudor Rose,3.5,//s3-media1.fl.yelpcdn.com/bphoto/Nfx1UGT3VipqXg6-sL29OQ/90s.jpg,1110 Panatella Boulevard NW,Calgary,T3K 0S6,-114.091506,51.16816,pub,562
+Upper Deck Public House,4.5,//s3-media2.fl.yelpcdn.com/bphoto/MfmuSyU4hoLUWlMzU-bNbA/90s.jpg,1104 6th Avenue SW,Calgary,T2P 0W2,-114.08627,51.048168,pub,563
+Vagabond Brewery and Restaurant,2.5,//s3-media1.fl.yelpcdn.com/bphoto/Yta3AO1y0uOp7H0m-bAWWg/90s.jpg,1129 Olym Way SE,Calgary,T2G 0L4,-114.053464,51.041862,pub,564
+VooDoo Lounge,3.5,//s3-media2.fl.yelpcdn.com/bphoto/cJGrHoYGcrKNI37QUInSFA/90s.jpg,720 16th Avenue NW,Calgary,T2M 0J7,-114.097807,51.05835,pub,565
+Weaselhead,3,//s3-media1.fl.yelpcdn.com/bphoto/1DBkPIi_71a8xk6IG_cTtA/90s.jpg,4604 37 Street SW,Calgary,T3E 3C9,-114.141107,51.0137,pub,566
+Winebar Kensington,4.5,//s3-media2.fl.yelpcdn.com/bphoto/ZM7ycKvty59Gnft-0P4ykw/90s.jpg,1131 Kensington Road NW,Calgary,T2N,-114.08778,51.052494,pub,567
