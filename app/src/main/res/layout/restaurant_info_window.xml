@@ -13,18 +13,34 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginRight="5dp"
-            android:adjustViewBounds="true"/>
+            android:adjustViewBounds="true"
+            android:minWidth="100dp"
+            android:nestedScrollingEnabled="true" />
+
         <TextView
             android:id="@+id/title"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:textSize="12dp"
-            android:textStyle="bold"/>
+            android:textSize="14dp"
+            android:textStyle="bold" />
+
         <TextView
-            android:id="@+id/type"
+            android:id="@+id/info"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:textSize="10dp"/>
+            android:textSize="12dp"/>
+
+        <Button
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="wrap_content"
+            android:layout_height="34dp"
+            android:text="Go"
+            android:id="@+id/buttonGo"
+            android:backgroundTint="#76ad54"
+            android:clickable="true"
+            android:textSize="12dp"
+            android:layout_marginLeft="-5dp" />
+
     </LinearLayout>
 
 </LinearLayout>

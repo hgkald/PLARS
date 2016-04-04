@@ -43,17 +43,10 @@ public class MainActivity extends AppCompatActivity {
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
-        FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
-        fab.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
-                        .setAction("Action", null).show();
-            }
-        });
-
         onClickListenerButton();
         onClickListenerButtonList();
+        //onClickListenerButtonList(); //TODO: Uncomment when working
+
         // ATTENTION: This was auto-generated to implement the App Indexing API.
         // See https://g.co/AppIndexing/AndroidStudio for more information.
         client = new GoogleApiClient.Builder(this).addApi(AppIndex.API).build();
@@ -76,16 +69,10 @@ public class MainActivity extends AppCompatActivity {
                     intent.putExtra("markers", markerList);
                     startActivity(intent);
 
-                    //The following opens google maps
-                    //Uri gmmIntentUri = Uri.parse("geo:51.0486,-114.0708");
-                    //Intent mapIntent = new Intent(Intent.ACTION_VIEW, gmmIntentUri);
-                    //mapIntent.setPackage("com.google.android.apps.maps");
-                    //startActivity(mapIntent);
                 }
             }
         );
     }
-
 
     public void onClickListenerButtonList(){
 
@@ -97,17 +84,26 @@ public class MainActivity extends AppCompatActivity {
                         Intent intent = new Intent("com.engo551.plars.app.ListActivity");
                         startActivity(intent);
 
-                        //The following opens google maps
-                        //Uri gmmIntentUri = Uri.parse("geo:51.0486,-114.0708");
-                        //Intent mapIntent = new Intent(Intent.ACTION_VIEW, gmmIntentUri);
-                        //mapIntent.setPackage("com.google.android.apps.maps");
-                        //startActivity(mapIntent);
                     }
                 }
         );
-
     }
 
+    public void onClickListenerButtonSearch(){
+
+        buttonList = (Button) findViewById(R.id.buttonSearch);
+        buttonList.setOnClickListener(
+                new View.OnClickListener() {
+                    @Override
+                    public void onClick(View v) {
+                        //TODO: This should actually do a search....
+                        Intent intent = new Intent("com.engo551.plars.app.ListActivity");
+                        startActivity(intent);
+
+                    }
+                }
+        );
+    }
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
