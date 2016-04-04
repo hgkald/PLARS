@@ -45,7 +45,7 @@ public class MainActivity extends AppCompatActivity {
 
         onClickListenerButton();
         onClickListenerButtonList();
-        //onClickListenerButtonList(); //TODO: Uncomment when working
+        //onClickListenerButtonSearch(); //TODO: Uncomment when working
 
         // ATTENTION: This was auto-generated to implement the App Indexing API.
         // See https://g.co/AppIndexing/AndroidStudio for more information.
