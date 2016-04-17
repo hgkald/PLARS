@@ -1,6 +1,9 @@
 package com.engo551.plars.app;
 
+import android.content.Intent;
 import android.net.Uri;
+import android.support.design.widget.FloatingActionButton;
+import android.support.design.widget.Snackbar;
 import android.util.Log;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
@@ -50,15 +53,18 @@ public class ListActivity extends AppCompatActivity {
         final Pair[] sort = SortIndex(CalculateIndex(db));
         prefIndex(db);
 
-        String[] resNames = {ResList.get(sort[0].sort)[0],ResList.get(sort[1].sort)[0],ResList.get(sort[2].sort)[0],ResList.get(sort[3].sort)[0],
+        //TODO: This NEEDS to read and write from the database!
+
+        final String[] resNames = {ResList.get(sort[0].sort)[0],ResList.get(sort[1].sort)[0],ResList.get(sort[2].sort)[0],ResList.get(sort[3].sort)[0],
                 ResList.get(sort[4].sort)[0],ResList.get(sort[5].sort)[0],ResList.get(sort[6].sort)[0],ResList.get(sort[7].sort)[0],
                 ResList.get(sort[8].sort)[0],ResList.get(sort[9].sort)[0],ResList.get(sort[10].sort)[0]};
         ListAdapter resAdapter = new CustomAdapter(this, resNames);
+        Log.d("########", resNames[0]);
 
         ListView resListview = (ListView) findViewById(R.id.SecActListRecom);
         resListview.setAdapter(resAdapter);
 
-       resListview.setOnItemClickListener(
+        resListview.setOnItemClickListener(
 
                 new AdapterView.OnItemClickListener() {
                     @Override
@@ -75,14 +81,23 @@ public class ListActivity extends AppCompatActivity {
                 }
         );
 
-        /*FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
-        fab.setOnClickListener(new View.OnClickListener() {
+        FloatingActionButton buttonMap = (FloatingActionButton) findViewById(R.id.buttonMap);
+        buttonMap.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
-                        .setAction("Action", null).show();
+                ResDb = new RestaurantDatabaseHelper(ListActivity.this);
+
+                //TODO: This needs to get markers from the recommended restaurants only!
+                String[] markerList = ResDb.toStringArray();
+
+                Intent intent = new Intent("com.engo551.plars.app.MapsActivity");
+                intent.putExtra("markerStyle", "restaurant");
+                intent.putExtra("markers", markerList);
+                startActivity(intent);
+                //Snackbar.make(view, "Go to map", Snackbar.LENGTH_LONG)
+                //        .setAction("Action", null).show();
             }
-        });*/
+        });
 
 
         // ATTENTION: This was auto-generated to implement the App Indexing API.
@@ -149,7 +164,7 @@ public class ListActivity extends AppCompatActivity {
         for (int j=0; j<index.size();j++){
 
             sort[j].sort = sort[j].sort+1;
-            Log.d("pair", String.valueOf(sort[j].sort));
+            //Log.d("pair", String.valueOf(sort[j].sort));
         }
         return sort;
     }
@@ -170,7 +185,7 @@ public class ListActivity extends AppCompatActivity {
                     break;
                 }
 
-                Log.d("list", list.get(i)[1]);
+                //Log.d("list", list.get(i)[1]);
                 i++;
             }
         } catch (IOException e) {
